@@ -1,0 +1,1102 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<title>Lore | Elden Ring Wiki</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"b07d77d93f5e688675e01411","wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Lore","wgTitle":"Lore","wgCurRevisionId":742944,"wgRevisionId":742944,"wgArticleId":25690,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages using Tabber parser tag","World Information"],"wgPageViewLanguage":"en","wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Lore","wgRelevantArticleId":25690,"wgIsProbablyEditable":false,"wgRelevantPageIsProbablyEditable":false,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgTinyMCETagList":"gallery|indicator|langconvert|html|htmltag|youtube|aovideo|aoaudio|nicovideo|infobox|infoboxhtml|infoboxhtmlstyle|editinline|valnetembed|vnlinkbutton|valnetmap|vntooltip|seo|templatestyles|vnquerylink|comment-streams|comment-streams-toc|no-comment-streams|comment-streams-initially-collapsed|containerfilter|tabber|tabbertransclude|includeonly|onlyinclude|noinclude|nowiki","wgTinyMCELanguage":"en","wgTinyMCEDirectionality":"ltr","wgCheckFileExtensions":true,"wgStrictFileExtensions":true,"wgFileExtensions":["png","gif","jpg","jpeg","webp"],"wgFileBlacklist":["html","htm","js","jsb","mhtml","mht","xhtml","xht","php","phtml","php3","php4","php5","phps","phar","shtml","jhtml","pl","py","cgi","exe","scr","dll","msi","vbs","bat","com","pif","cmd","vxd","cpl","xml"],"wgEnableUploads":true,"wgTinyMCEVersion":"1.1.2","wgTinyMCEUserMayUpload":false,"wgTinyMCEUserMayUploadFromURL":false,"wgTinyMCEUserIsBlocked":false,"wgTinyMCEUserCanUseGenericEmbed":false,"wgTinyMCEUserCanBrowseImages":false,"wgTinyMCESettings":null,"wgWsTinyMCEModals":null,"ValnetWikiComments":{"canComment":false,"moderatorEdit":false,"moderatorDelete":false,"moderatorFastDelete":0,"showLabels":1,"newestStreamsOnTop":1,"initiallyCollapsed":false,"enableVoting":0,"enableWatchlist":1,"comments":[],"feedPageSize":50,"historyHandler":"{\"type\":\"url\",\"url\":\"?curid={id}\u0026action=history\"}","associatedPage":"Lore","associatedPageId":25690}};
+RLSTATE={"site.styles":"ready","user.styles":"ready","user":"ready","user.options":"loading","ext.tabberNeue.init.styles":"ready","ext.bootstrap.styles":"ready","ext.ValnetCategoryCloud":"ready","skins.fextralifewiki":"ready","ext.ValnetPopWikisWidget.styles":"ready"};RLPAGEMODULES=["ext.tabberNeue","ext.youtube.lazyload","ext.bootstrap.scripts","ext.tinymce","site","mediawiki.page.ready","skins.fextralifewiki.js","ext.ValnetMediaViewerInitialization","ext.valnetInfoboxPreviews","ext.ValnetWikiComments","ext.ValnetFxWideSearch.header","ext.fextralifewiki.menu"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.impl(function(){return["user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+}];});});</script>
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=ext.ValnetCategoryCloud%7Cext.ValnetPopWikisWidget.styles%7Cext.bootstrap.styles%7Cext.tabberNeue.init.styles%7Cskins.fextralifewiki&amp;only=styles&amp;skin=fextralifewiki">
+<script async="" src="/load.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=fextralifewiki"></script>
+<!--[if IE]><link rel="stylesheet" href="https://eldenring.wiki.fextralife.com//skins/FextralifeWiki/resources/IE9fixes.css" media="screen"><![endif]-->
+<meta name="ResourceLoaderDynamicStyles" content="">
+<link rel="stylesheet" href="/load.php?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=fextralifewiki">
+<meta name="generator" content="MediaWiki 1.43.1">
+<meta name="robots" content="max-image-preview:standard">
+<meta name="format-detection" content="telephone=no">
+<meta name="description" content="Explore the Lore of Elden Ring, such as the story of the Lands Between, the Shattering, key characters, locations, community theories, and more for Elden Ring.">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0">
+<link rel="icon" href="https://static0.fextralifeimages.com/file/eldenring/favicon.png?v=1783714231">
+<link rel="search" type="application/opensearchdescription+xml" href="/rest.php/v1/search" title="Elden Ring Wiki (en)">
+<link rel="EditURI" type="application/rsd+xml" href="https://eldenring.wiki.fextralife.com/api.php?action=rsd">
+<link rel="canonical" href="https://eldenring.wiki.fextralife.com/Lore">
+<link rel="license" href="https://creativecommons.org/publicdomain/zero/1.0/">
+<link rel="alternate" type="application/atom+xml" title="Elden Ring Wiki Atom feed" href="/index.php?title=Special:RecentChanges&amp;feed=atom">
+<script>    window.valnet_build_number = '1398';
+    window.valnetVersionizeUrl = function (url) {
+        if (!window.valnet_build_number) return url;
+
+        return url + '?v=' + window.valnet_build_number;
+    };</script>
+<meta property="og:title" content="Lore">
+<meta property="og:site_name" content="Elden Ring Wiki">
+<meta property="og:url" content="https://eldenring.wiki.fextralife.com/Lore">
+<meta property="og:description" content="Explore the Lore of Elden Ring, such as the story of the Lands Between, the Shattering, key characters, locations, community theories, and more for Elden Ring.">
+<meta property="og:image" content="https://static0.fextralifeimages.com/file/eldenring/c/c3/Lore-image1-elden-ring-wik-guide-300px.png?version=f74734baabb118be177f95347e09f174">
+<meta property="og:image:width" content="300">
+<meta property="og:image:height" content="169">
+<meta property="article:modified_time" content="2026-08-05T18:40:24Z">
+<meta property="article:published_time" content="2026-08-05T18:40:24Z">
+<script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"Article","name":"Lore - Elden Ring Wiki","headline":"Lore - Elden Ring Wiki","mainEntityOfPage":"Lore","identifier":"https:\/\/eldenring.wiki.fextralife.com\/Lore","url":"https:\/\/eldenring.wiki.fextralife.com\/Lore","description":"Explore the Lore of Elden Ring, such as the story of the Lands Between, the Shattering, key characters, locations, community theories, and more for Elden Ring.","dateModified":"2026-08-05T18:40:24Z","datePublished":"2026-08-05T18:40:24Z","image":{"@type":"ImageObject","url":"https:\/\/static0.fextralifeimages.com\/file\/eldenring\/c\/c3\/Lore-image1-elden-ring-wik-guide-300px.png?version=f74734baabb118be177f95347e09f174","width":300,"height":169},"author":{"@type":"Organization","name":"Elden Ring Wiki","url":"https:\/\/eldenring.wiki.fextralife.com","logo":[]},"publisher":{"@type":"Organization","name":"Elden Ring Wiki","url":"https:\/\/eldenring.wiki.fextralife.com","logo":[]},"potentialAction":{"@type":"SearchAction","target":"https:\/\/eldenring.wiki.fextralife.com\/index.php?title=Special:Search&search={search_term}","query-input":"required name=search_term"}}</script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-Y3QYVHQWZC"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag("js", new Date());
+  gtag("config", "G-Y3QYVHQWZC", {
+    anonymize_ip: true
+  });
+</script>
+<script>
+!async function(){var a=Math.floor(Date.now()/3e5),n=document.createElement("script");n.async=!0,n.src="https://cdn.adsninja.ca/ads_initiator.js?v="+a,n.id="an-injector",document.head.appendChild(n),await new Promise(a=>{n.onload=a}).then(()=>{window.adsNinjaInitiator.brandName="FextraLife",window.adsNinjaInitiator.shortBrandName="FX",window.adsNinjaInitiator.init()})}();
+</script>
+<script>
+    window.sentinelData = window.sentinelData || [];
+    function sentinelTrack(){sentinelData.push(arguments)};
+    sentinelTrack("initTimestamp", Date.now());
+    window.addEventListener("DOMContentLoaded", () => {
+        sentinelTrack("footerTimestamp", Date.now());
+    });
+
+    sentinelSetup = {
+        accountName: "valnet",
+        propertyId: "www.fextralife.com",
+        userDimensions: {
+            "loggedIn": false
+        },
+        dimensions: {
+            "intent": "",
+            "adsTemplate": "wiki",
+            "contentType": "",
+            "articleType": "",
+            "primaryTag": "",
+            "primaryCategory": "",
+            "networkCategory": "",
+            "segment": "",
+            "initiative": "",
+            "publishDate": "",
+            "system": "",
+			'republishDate': '',
+            'httpStatus': "200"
+        }
+    };
+
+    sentinelTrack("config", sentinelSetup);
+</script>
+<script async src="https://cdn.sentinelpro.com/valnet/sp.js"></script>
+<link href="https://fonts.googleapis.com/css2?family=Spectral&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://qa3cdn.fextralife.com/icomoon/style.css?v=1398">
+<script src="https://platform.twitter.com/widgets.js"></script>
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Lore rootpage-Lore skin-fextralifewiki action-view skin--responsive"><div id="mw-wrapper" class="fex-skin fex-skin--content"><div id="mw-header-container" class="ts-container"><div id="mw-header" class="ts-inner fex-site-header fex-main-header"><div id="mw-header-top" class="ts-inner"><div id="mw-header-top-content"><div class="top-menu-and-logo"><div class="hamburger-menu" onclick="vnInteraction.toggleSideMenu()"><span class="icon-menu icon i-menu"></span></div><div id="fx-logo" class="mw-portlet" role="banner"><a class="mw-wiki-logo fextralifewiki-logo" href="https://fextralife.com/" title="Visit the main page"><img src="/skins/FextralifeWiki/resources/assets/fx-logo-full.svg?v=3.0"></a></div><div id="fx-logo-short" class="mw-portlet" role="banner"><a class="mw-wiki-logo fextralifewiki-logo" href="https://fextralife.com/" title="Visit the main page"><img src="/skins/FextralifeWiki/resources/assets/fx-logo-short.svg?v=3.0"></a></div></div><div class="fex-header-drawer-panel-content valnet-fx-wide-search-panel"><form id="valnetFxWideSearch" class="valnet-fx-wide-search-form" action="/Special:Search" method="get" role="search"><div class="valnet-fx-wide-search-input-wrap"><input type="search" id="valnetFxWideSearchInput" name="search" class="form-control" placeholder="Search the wiki" aria-label="Search" autocomplete="off"><button type="button" id="valnetFxWideSearchClear" class="valnet-fx-wide-search-clear" aria-label="Clear search" title="Clear search" hidden=""></button></div><button type="submit" id="valnetFxWideSearchButton">Search</button></form></div><div id="user-tools"><div class="mw-portlet" id="p-search"><h3 lang="en" dir="ltr"><label for="searchInput">Search</label></h3><form action="/index.php" id="searchform"><div id="simpleSearch"><div id="searchInput-container"><input type="search" name="search" placeholder="Search wiki..." aria-label="Search wiki..." autocapitalize="sentences" title="Search Elden Ring Wiki [f]" accesskey="f" id="searchInput" class="form-control"></div><input type="hidden" value="Special:Search" name="title"><input class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Search the pages for this text" id="mw-searchButton" value="Search"><input class="searchButton" type="submit" name="go" title="Go to a page with this exact name if it exists" id="searchButton" value="Go"></div></form></div><div id="youtube"><a href="https://youtube.com/@fextralife" target="_blank"><span class="youtube-text"></span></a></div><div id="personal"><a class="portlet-label" href="https://fextralife.com/login/?loginRedirect=http%3A%2F%2Feldenring.wiki.fextralife.com%2FLore"><span>Sign In Now</span></a></div></div></div></div><div id="sticky-header" class="sticky-header"></div></div><div class="visualClear"></div></div><div class="valnet-flex-side-menu " id="valnetFlexSideMenu">
+			<div class="valnet-flex-side-menu__top">
+				<!-- Logo CONTAINER -->
+				<a href="https://fextralife.com/" rel="no-follow" class="valnet-flex-side-menu__logo"><img src="skins/FextralifeWiki/resources/assets/fx-logo-full.svg" alt="FextraLife Logo"></a>
+				<!-- CLOSE MENU CONTAINER -->
+				<span class="valnet-flex-side-menu__close-icon" onclick="vnInteraction.toggleSideMenu()"><span class="icon-close"></span></span>
+			</div>
+			<ul class="valnet-flex-side-menu__links" itemscope="" itemtype="https://schema.org/SiteNavigationElement">
+				<li class="valnet-flex-side-menu__link-item" itemprop="name">
+					<div class="valnet-flex-side-menu__menu-item">
+						<a href="https://fextralife.com/" class="valnet-flex-side-menu__link roboto-fex" itemprop="url"><span>Home</span></a>
+					</div>
+				</li>
+				<li class="valnet-flex-side-menu__link-item" itemprop="name">
+					<div class="valnet-flex-side-menu__menu-item">
+						<a href="https://www.wiki.fextralife.com/" class="valnet-flex-side-menu__link roboto-fex" itemprop="url"><span>Wikis</span></a>
+					</div>
+				</li>
+				<li class="valnet-flex-side-menu__link-item" itemprop="name">
+					<div class="valnet-flex-side-menu__menu-item">
+						<a href="https://fextralife.com/news/" class="valnet-flex-side-menu__link roboto-fex" itemprop="url"><span>News</span></a>
+					</div>
+				</li>
+				<li class="valnet-flex-side-menu__link-item" itemprop="name">
+					<div class="valnet-flex-side-menu__menu-item">
+						<a href="https://fextralife.com/reviews/game-reviews/" class="valnet-flex-side-menu__link roboto-fex" itemprop="url"><span>Reviews</span></a>
+					</div>
+				</li>
+				<li class="valnet-flex-side-menu__link-item" itemprop="name">
+					<div class="valnet-flex-side-menu__menu-item">
+						<a href="https://fextralife.com/guides/" class="valnet-flex-side-menu__link roboto-fex" itemprop="url"><span>Guides</span></a>
+					</div>
+				</li>
+				<li class="valnet-flex-side-menu__link-item" itemprop="name">
+					<div class="valnet-flex-side-menu__menu-item">
+						<a href="https://fextralife.com/forums/" class="valnet-flex-side-menu__link roboto-fex" itemprop="url"><span>Forum</span></a>
+					</div>
+				</li>
+			</ul>
+			<!-- SOCIAL LINKS CONTAINER -->
+			<ul class="valnet-flex-side-menu-social-media">
+				<li class="valnet-flex-social-elements"><a  class="icon valnet-flex-social-icon i-youtube valnet-flex-no-und" href="https://www.youtube.com/channel/UClkUHCETNUph8vM-4gQpwUA" target="_blank"><span class="icon-youtube"></span></a></li>
+				<li class="valnet-flex-social-elements"><a  class="icon valnet-flex-social-icon i-facebook valnet-flex-no-und" href="https://www.facebook.com/Fextralife " target="_blank"><span class="icon-facebook"></span></a></li>
+				<li class="valnet-flex-social-elements"><a  class="icon valnet-flex-social-icon i-instagram valnet-flex-no-und" href="https://www.instagram.com/fextralife/" target="_blank"><span class="icon-instagram"></span></a></li>
+				<li class="valnet-flex-social-elements"><a  class="icon valnet-flex-social-icon i-twitter valnet-flex-no-und" href="https://x.com/Fextralife" target="_blank"><span class="icon-x"></span></a></li>
+				<li class="valnet-flex-social-elements"><a  class="icon valnet-flex-social-icon i-tiktok valnet-flex-no-und" href="https://www.tiktok.com/@fextralifeofficial" target="_blank"><span class="icon-tiktok"></span></a></li>
+				<li class="valnet-flex-social-elements"><a  class="icon valnet-flex-social-icon i-pintrest valnet-flex-no-und" href="https://ca.pinterest.com/fextralife/" target="_blank"><span class="icon-pinterest2"></span></a></li>
+				<li class="valnet-flex-social-elements"><a  class="icon valnet-flex-social-icon i-twitch valnet-flex-no-und" href="https://www.twitch.tv/fextralife" target="_blank"><span class="icon-twitch"></span></a></li>
+			</ul>
+		</div><section class="fex-skin-wiki-heading fex-skin-wiki-heading--content"><div class="fex-skin-wiki-heading__inner"><a class="fex-skin-wiki-heading__logo-link" href="/Elden_Ring_Wiki" aria-label="Elden Ring Wiki"><img class="fex-skin-wiki-heading__logo-image" src="https://static0.fextralifeimages.com/file/eldenring/logo.png?v=1783714231" alt=""></a><nav class="fex-skin-wiki-heading__navigation" aria-label="Navigation"><ul class="nav-main-menu"><li><button type="button" class="editmenu-toggle" aria-expanded="false" aria-haspopup="true"><img class="menu-item-icon navsprite" src="https://static0.fextralifeimages.com/file/eldenring/b/b0/Icon_00.png"/><span class="editmenu-toggle-label">Elden Ring</span><span class="fex-icon--chevron-down fex-menu-toggle-icon" aria-hidden="true"></span></button><ul class="dropdown-menu fex-dropdown"><li><a href="/Elden_Ring_Wiki" target="_self">Wiki Home</a></li><li><a href="/Elden_Ring_Tarnished_Edition" target="_self">Tarnished Edition</a></li><li><a href="/Shadow_of_the_Erdtree" target="_self">Shadow of the Erdtree</a></li><li><a href="/Patch_Notes" target="_self">Patch Notes</a></li><li><a href="/Combat" target="_self">Combat</a></li><li><a href="/Controls" target="_self">Controls</a></li><li><a href="/Mods" target="_self">Mods</a></li><li><a href="/FAQ" target="_self">FAQ</a></li><li><a href="/Nightreign" target="_self">Nightreign</a></li><li><a href="/Elden_Ring_Movie" target="_self">Elden Ring Film</a></li><li><a href="#" target="_self">Community</a><ul><li><a href="https://fextralife.com/forums/f194/elden-ring-general/" target="_self">Elden Ring Forums</a></li><li><a href="https://fextralife.com/" target="_self">Fextralife Blog</a></li><li><a href="https://www.wiki.fextralife.com/" target="_self">Fextralife Wiki Hub</a></li></ul></li></ul></li><li><button type="button" class="editmenu-toggle" aria-expanded="false" aria-haspopup="true"><img class="menu-item-icon navsprite" src="https://static0.fextralifeimages.com/file/eldenring/2/26/Icon_07.png"/><span class="editmenu-toggle-label">Maps</span><span class="fex-icon--chevron-down fex-menu-toggle-icon" aria-hidden="true"></span></button><ul class="dropdown-menu fex-dropdown"><li><a href="/Interactive_Map" target="_self">Interactive Map</a></li><li><a href="/Shadow_of_the_Erdtree_Map" target="_self">Shadow of the Erdtree Map</a></li><li><a href="/Locations" target="_self">Locations</a></li><li><a href="/Sites_of_Grace" target="_self">Sites of Grace</a></li><li><a href="/Maps" target="_self">Maps</a></li></ul></li><li><button type="button" class="editmenu-toggle" aria-expanded="false" aria-haspopup="true"><img class="menu-item-icon navsprite" src="https://static0.fextralifeimages.com/file/eldenring/1/14/Icon_03.png"/><span class="editmenu-toggle-label">Equipment</span><span class="fex-icon--chevron-down fex-menu-toggle-icon" aria-hidden="true"></span></button><ul class="dropdown-menu fex-dropdown"><li><a href="/Weapons" target="_self">Weapons</a></li><li><a href="/Armor" target="_self">Armor</a><ul><li><a href="/Armor" target="_self">All Armor</a></li><li><a href="/Helms" target="_self">Helms</a></li><li><a href="/Chest_Armor" target="_self">Chest Armor</a></li><li><a href="/Gauntlets" target="_self">Gauntlets</a></li><li><a href="/Leg_Armor" target="_self">Leg Armor</a></li></ul></li><li><a href="/Talismans" target="_self">Talismans</a></li><li><a href="/Ashes_of_War" target="_self">Ashes of War</a></li><li><a href="/Shields" target="_self">Shields</a></li><li><a href="/Spirit_Ashes" target="_self">Spirit Ashes</a></li><li><a href="/Skills" target="_self">Skills (Combat Arts)</a></li><li><a href="/Upgrades" target="_self">Upgrades</a></li><li><a href="/Damage_Types" target="_self">Damage Types</a></li><li><a href="/Items" target="_self">Items</a><ul><li><a href="/Items" target="_self">All Items</a></li><li><a href="/Key_Items" target="_self">Key Items</a></li><li><a href="/Consumables" target="_self">Consumables</a></li></ul></li></ul></li><li><button type="button" class="editmenu-toggle" aria-expanded="false" aria-haspopup="true"><img class="menu-item-icon navsprite" src="https://static0.fextralifeimages.com/file/eldenring/8/85/Icon_01.png"/><span class="editmenu-toggle-label">Magic</span><span class="fex-icon--chevron-down fex-menu-toggle-icon" aria-hidden="true"></span></button><ul class="dropdown-menu fex-dropdown"><li><a href="/Magic_Spells" target="_self">Magic Spells</a></li><li><a href="/Sorceries" target="_self">Sorceries</a></li><li><a href="/Incantations" target="_self">Incantations</a></li></ul></li><li><button type="button" class="editmenu-toggle" aria-expanded="false" aria-haspopup="true"><img class="menu-item-icon navsprite" src="https://static0.fextralifeimages.com/file/eldenring/4/43/Icon_02.png"/><span class="editmenu-toggle-label">Character</span><span class="fex-icon--chevron-down fex-menu-toggle-icon" aria-hidden="true"></span></button><ul class="dropdown-menu fex-dropdown"><li><a href="/Builds" target="_self">Builds</a><ul><li><a href="/Builds" target="_self">All Builds</a></li><li><a href="/Strength_Builds" target="_self">Strength Builds</a></li><li><a href="/Beginner_Builds" target="_self">Beginner Builds</a></li><li><a href="/Dexterity_Builds" target="_self">Dexterity Builds</a></li><li><a href="/Intelligence_Builds" target="_self">Intelligence Builds</a></li><li><a href="/SOTE_Builds" target="_self">SOTE Builds</a></li><li><a href="/Faith_Builds" target="_self">Faith Builds</a></li><li><a href="/Arcane_Builds" target="_self">Arcane Builds</a></li><li><a href="/PvE_Builds" target="_self">PvE Builds</a></li><li><a href="/PvP_Builds" target="_self">PvP Builds</a></li><li><a href="/Community_Builds" target="_self">Community Builds</a></li></ul></li><li><a href="/Classes" target="_self">Classes</a></li><li><a href="/Build_calculator" target="_self">Build Calculator</a></li><li><a href="/Stats" target="_self">Stats</a><ul><li><a href="/Stats" target="_self">All Stats</a></li><li><a href="/Status_Effects" target="_self">Status Effects</a></li><li><a href="/Buffs_and_Debuffs" target="_self">Buffs &amp; Debuffs</a></li></ul></li><li><a href="/Character_Creation" target="_self">Character Creation</a></li><li><a href="/Keepsakes" target="_self">Keepsakes</a></li><li><a href="/Gestures" target="_self">Gestures</a></li><li><a href="/Rebirth" target="_self">Rebirth - Respeccing</a></li></ul></li><li><button type="button" class="editmenu-toggle" aria-expanded="false" aria-haspopup="true"><img class="menu-item-icon navsprite" src="https://static0.fextralifeimages.com/file/eldenring/b/b3/Icon_05.png"/><span class="editmenu-toggle-label">World</span><span class="fex-icon--chevron-down fex-menu-toggle-icon" aria-hidden="true"></span></button><ul class="dropdown-menu fex-dropdown"><li><a href="/Interactive_Map" target="_self">Interactive Map</a></li><li><a href="/Bosses" target="_self">Bosses</a></li><li><a href="/Creatures_and_Enemies" target="_self">Creatures &amp; Enemies</a></li><li><a href="/NPCs" target="_self">NPCs</a></li><li><a href="/Merchants" target="_self">Merchants</a></li><li><a href="/Side_Quests" target="_self">Side Quests</a></li><li><a href="/Lore" target="_self">Lore</a></li></ul></li><li><button type="button" class="editmenu-toggle" aria-expanded="false" aria-haspopup="true"><img class="menu-item-icon navsprite" src="https://static0.fextralifeimages.com/file/eldenring/8/85/Icon_06.png"/><span class="editmenu-toggle-label">Guides</span><span class="fex-icon--chevron-down fex-menu-toggle-icon" aria-hidden="true"></span></button><ul class="dropdown-menu fex-dropdown"><li><a href="/Game_Progress_Route" target="_self">Game Progress Route</a></li><li><a href="/Walkthrough" target="_self">Walkthrough</a></li><li><a href="/Endings" target="_self">Endings</a></li><li><a href="/Shadow_Lands_Game_Progress_Route" target="_self">SOTE Game Progress Route</a></li><li><a href="/Shadow_of_the_Erdtree_Walkthrough" target="_self">SOTE Walkthrough</a></li><li><a href="/New_Game_Plus" target="_self">New Game +</a></li><li><a href="/New_Player_Help" target="_self">New Player Help</a></li><li><a href="/Crafting" target="_self">Crafting</a></li><li><a href="/Summon_Range_Calculator" target="_self">Summon Range Calculator</a></li></ul></li><li><button type="button" class="editmenu-toggle" aria-expanded="false" aria-haspopup="true"><img class="menu-item-icon navsprite" src="https://static0.fextralifeimages.com/file/eldenring/6/6f/Icon_04.png"/><span class="editmenu-toggle-label">Online</span><span class="fex-icon--chevron-down fex-menu-toggle-icon" aria-hidden="true"></span></button><ul class="dropdown-menu fex-dropdown"><li><a href="/Multiplayer_Coop_and_Online" target="_self">Online &amp; Multiplayer</a></li><li><a href="/PvP" target="_self">PvP</a></li><li><a href="/Covenants" target="_self">Covenants</a></li></ul></li></ul></nav></div></section><div id="mw-content-container" class="ts-container fex-skin-content"><div id="mw-content-block" class="ts-inner fex-skin-content__inner"><div id="mw-content-wrapper" class="fex-skin-content__layout"><div class="fex-skin-content__action-rail"><div class="mw-more-options"><button class="sticky-button mw-quick-button mw-quick-options-btn" onclick="vnInteraction.toggleTarget('.mw-more-options-content')"></button><div class="mw-more-options-content dropdown-menu fex-dropdown" style="display: none;"><div id="site-navigation" class="sidebar-chunk"><span class="section-title">Navigation</span><div class="sidebar-inner"><div role="navigation" class="mw-portlet" id="p-navigation" aria-labelledby="p-navigation-label"><div class="mw-portlet-body"><ul lang="en" dir="ltr"><li id="n-mainpage-description" class="mw-list-item"><a href="/Elden_Ring_Wiki" rel="nofollow" title="Visit the main page [z]" accesskey="z"><span>Main page</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/Special:RecentChanges" rel="nofollow" title="A list of recent changes in the wiki [r]" accesskey="r"><span>Recent changes</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/Special:Random" rel="nofollow" title="Load a random page [x]" accesskey="x"><span>Random page</span></a></li><li id="n-help-mediawiki" class="mw-list-item"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents" target="_blank" rel="nofollow"><span>Help about MediaWiki</span></a></li></ul></div></div></div></div></div></div></div><div id="mw-content" class="fex-main fex-skin-content__main"><div class="mw-body" role="main"><div class="mw-indicators">
+</div>
+<div class="breadcrumbs-container"><div id="breadcrumbs2"><a href="/Elden_Ring_Wiki" title="Elden Ring Wiki">Home</a> &gt; <a href="/World_Information" title="World Information">World Information</a> &gt; <span id="breadcrumbs2-currentitle">Lore</span></div></div><div class="page-heading-container page-heading-container--article"><h1 id="firstHeading" class="firstHeading mw-first-heading">Lore | Elden Ring Wiki</h1><div class="page-heading-container-sub"><div class="page-heading-subtitle-container"><div id="contentSub"><div id="mw-content-subtitle"><div class="subpages"></div></div></div></div><div class="page-heading-metadata-container"><div class="article-last-updated">This page was last edited on 5 August 2026, at 18:40.</div><a href="#join-discussion" class="discussion-jump"></a><a href="/index.php?title=Lore&amp;action=history" class="history-jump" rel="nofollow" data-no-preview="true"></a></div></div></div><div id="bodyContentOuter"><div id="siteSub">From Elden Ring Wiki</div><div id="bodyContent" data-mw-ve-target-container=""><div id="mw-content-text" class="mw-body-content"><div class="mw-content-ltr mw-parser-output" lang="en" dir="ltr"><p><b>Lore</b> in <b><a href="/Elden_Ring_Wiki" title="Elden Ring Wiki">Elden Ring</a></b> encompasses the history, mythology, characters, and major events that shape the Lands Between. From the origins of the <b>Elden Ring</b> and the reign of <a href="/Queen_Marika" class="mw-redirect" title="Queen Marika">Queen Marika</a> to the devastating Shattering and its aftermath, this section explores the stories, secrets, and mysteries hidden throughout the game. <span style="color: #ff6600;"><b>NOTE:</b></span> This page contains significant story spoilers.
+</p><p>The mythology of <b>Elden Ring</b> was created by George R. R. Martin, while the game's narrative and worldbuilding were developed by Hidetaka Miyaazki and the team at FromSoftware. Like other Soulsborne titles, <b>Elden Ring</b> presents its story through item descriptions, environmental storytelling, NPC dialogue, and fragmented historical accounts, encouraging players to explore, uncover, and interpret its deeper meanings.
+</p><p>Explore the pages below to learn more about the history of the Lands Between:
+</p>
+<ul><li>Visit <a href="/Sword_Monuments" title="Sword Monuments">Sword Monuments</a> for flavor text found on sword-like structures around the Lands Between</li>
+<li>Visit <a href="/Timeline_of_Lands_Between_history" title="Timeline of Lands Between history">Timeline of Lands Between history</a> for a community-made timeline of the historical events in the Lands Between</li>
+<li>Visit <a href="/NPCs" title="NPCs">NPCs</a> for information on the various NPCs in Elden Ring and in Shadow of the Erdtree</li>
+<li>Visit <a href="/Spirit_NPC" title="Spirit NPC">Spirit NPC</a> for information on the spirits or ghosts found across Lands Between and the Realm of the Shadow.</li></ul>
+<h2 class="titlearea" id="Elden_Ring_Lore">
+Elden Ring Lore</h2><div class="tabber tabber--init"><header class="tabber__header"><button class="tabber__header__prev" tabindex="-1" type="button" aria-hidden="true"></button><nav class="tabber__tabs" role="tablist"><a class="tabber__tab" role="tab" id="tabber-Base_Game_Lore-label" href="#tabber-Base_Game_Lore" aria-controls="tabber-Base_Game_Lore">Base Game Lore</a><a class="tabber__tab" role="tab" id="tabber-Shadow_of_the_Erdtree_Lore-label" href="#tabber-Shadow_of_the_Erdtree_Lore" aria-controls="tabber-Shadow_of_the_Erdtree_Lore">Shadow of the Erdtree Lore</a></nav><button class="tabber__header__next" tabindex="-1" type="button" aria-hidden="true"></button></header><section class="tabber__section"><article class="tabber__panel" role="tabpanel" tabindex="0" id="tabber-Base_Game_Lore" aria-labelledby="tabber-Base_Game_Lore-label"><p class="mw-empty-elt">
+</p><p><br />
+</p>
+<div class="btn-lg btn-default" align="center"><h4 id="Overview_♦_Location_Lore_♦_Character_Lore_♦_Major_Events_♦_List_of_Deities_♦_List_of_Enemies_♦_Factions_♦_Lore_Theories">
+<a class="mw-selflink-fragment" href="#overview">Overview</a> ♦ <a class="mw-selflink-fragment" href="#location">Location Lore</a> ♦ <a class="mw-selflink-fragment" href="#character">Character Lore</a> ♦ <a href="/Major_Events" title="Major Events">Major Events</a> ♦ <a class="mw-selflink-fragment" href="#deities">List of Deities</a> ♦ <a href="/Creatures_and_Enemies" title="Creatures and Enemies">List of Enemies</a> ♦ <a class="mw-selflink-fragment" href="#factions">Factions</a> ♦ <a class="mw-selflink-fragment" href="#loretheories">Lore Theories</a></h4></div>
+<div class="row">
+<div class="col-sm-6"><h3 class="bonfire" id="Elden_Ring_Lore_Overview">
+<span id="overview"></span>Elden Ring Lore Overview</h3>The storyteller folds her slender hands - both pairs - and speaks. “It happened an age ago. But when I recall, I see it true.” So begins the tale of the Shattering, a devastating war between the children of Marika, Demigods of the Lands Between. One grim night in the depths of winter, a flock of unknown assassins stole across the Lands Between.
+<p>In a coetaneous attack, this foul covenant snuffed out the lives of many of the God-Queen's kin throughout the empire, too numerous and too scattered for her godly protection to save. The assassins' targets were multifold, but none was as devastating a loss to the Eternal Queen as that of Godwyn the Golden. After his death, the Elden Ring was somehow shattered, and the order of the world broke with it.
+</p><p>Out of this chaos came war. Open, bitter war, pitting blood against blood and kin against kin. The conflict broke a vast and prosperous empire into brittle fragments. No single side could find enough purchase to maintain a decisive victory, even when fueled by the power of a Great Rune.
+</p><p>The battle of General Radahn against Malenia the Severed illustrated that neither strength nor skill alone would be enough to take control of the entirety of the lands Marika had united. And so, the Lands Between are no longer gripped by open war, but caught in an uneasy stalemate that seems impossible to resolve. “Unless of course,” the storyteller says, a coy smile on both her lips, “thou shouldst take the crown?”
+</p><p>Take a deeper dive into the carefully crafted mythology of George R.R. Martin – author of The New York Times best-selling fantasy series, A Song of Ice and Fire – and the world created by FromSoftware based on his work in this new trailer available here.
+</p><p>Transported to ages long ago, you will relive the Shattering, a war that brought darkness to the Lands Between, initiated by demigods' hunger for power. You'll fight alongside General Radahn and Malenia the Severed, but even these two undefeatable warriors couldn't reunite a world so badly broken. There is only one hope left: the hope that a new Elden Lord will rise and lift the veil of shadows that has fallen over Marika's domain.
+</p><p>The wait is almost over. Soon you'll venture into the Lands Between and strive to become its Elden Lord. Stand ready, Tarnished, and prepare to claim what fate has promised you.
+</p>
+</div>
+<div class="col-sm-6">
+<div style="max-width:560px;max-height:316px;margin-right:auto;margin-left:auto">
+<div class="embed-responsive embed-responsive-16by9"><iframe class="ytiframe" data-extension="youtube" src="//www.youtube-nocookie.com/embed/xQ9EaFmR-jY?" frameborder="0" allowfullscreen=""></iframe>
+</div></div></div></div>
+<div class="row">
+<div class="col-sm-6"><h3 class="special" id="Story_Trailer_Transcript">
+Story Trailer Transcript</h3>
+<div class="btn-lg btn-default">It happened an age ago.<br />But when I recall, I see it true.
+<p>On a night of wint'ry fog.
+</p><p>The rune of death was stolen<br />And the demigods began to fall, starting with Godwyn the Golden.<br />Queen Marika was driven to the brink.
+</p><p>The Shattering ensued; a war that wrought only darkness.
+</p><p>The Elden Ring was broken, but by whom? And why?<br />What could the Demigods ever hope to win by warring?
+</p><p>The conqueror of the stars, General Radahn.<br />And the Blade of Miquella, Malenia the Severed.
+</p><p>These two were the mightiest to remain, and locked horns in combat.<br />But there would be no victor.
+</p><p>And so, we inhabit a fractured world.<br />Awaiting the arrival of the Elden Lord.
+</p><p>Unless of course, thou shouldst take the crown?
+</p>
+</div>
+<h3 class="special" id="Prologue_Text">
+Prologue Text</h3>
+<div class="btn-lg btn-default">The Golden Order has been broken.
+<p>Rise, Tarnished, and be guided by grace to brandish the power of the <a href="/Elden_Ring_Wiki" title="Elden Ring Wiki">Elden Ring</a> and become an Elden Lord in the Lands Between.
+</p><p>In the Lands Between ruled by Queen Marika the Eternal, the <a href="/Elden_Ring_Wiki" title="Elden Ring Wiki">Elden Ring</a>, the source of the Erdtree, has been shattered.
+</p><p>Marika's offspring, demigods all, claimed the shards of the <a href="/Elden_Ring_Wiki" title="Elden Ring Wiki">Elden Ring</a> known as the Great Runes, and the mad taint of their newfound strength triggered a war: The Shattering. A war that meant abandonment by the Greater Will.
+</p><p>And now the guidance of grace will be brought to the Tarnished who were spurned by the grace of gold and exiled from the Lands Between. Ye dead who yet live, your grace long lost, follow the path to the Lands Between beyond the foggy sea to stand before the <a href="/Elden_Ring_Wiki" title="Elden Ring Wiki">Elden Ring</a>.
+</p><p>And become the Elden Lord.
+</p>
+</div></div>
+<div class="col-sm-6"><h3 class="special" id="Gameplay_Trailer_Transcript">
+Gameplay Trailer Transcript</h3>
+<div class="btn-lg btn-default">The Tarnished will soon return.
+<p>Guided by Grace once lost.
+</p><p>The Golden Order is broken to its core.
+</p><p>Foul Tarnished... in search of the Elden Ring.
+</p><p>Emboldened by the flame of ambition.
+</p><p>Someone must extinguish thy flame.
+</p><p>They will fight. And they will die. In an unending curse
+</p><p>For how else is a Champion, or a Lord, to be born?
+</p><p>... Well. A lowly Tarnished, playing as a Lord.
+</p><p>I command thee, kneel!
+</p><p>Brandish the Elden Ring ... for all of us.
+</p>
+</div></div></div>
+<div class="row">
+<div class="col-sm-6"><h3 class="special" id="Alternate_Prologue_Text">
+Alternate Prologue Text</h3>
+<div class="btn-lg btn-default">Tarnished of the Lands Between<br />The Golden Order has been shattered. Throughout the Lands Between, Demigods holding shards of the Elden Ring squabble and make war over the ruins of a perfect realm, now abandoned by the golden guidance of the Greater Will.
+<p>As the echoes of this conflict[SIC] thunder in the distance, an outcast arrives. Once, their ancestors called the Lands Between home, but the blessed light of grace was lost to their tribe long ago and they were expelled from the kingdom. They are the Tarnished, and they have returned to claim the Elden Lordship promised to them by legend.
+</p><p>This is the world of ELDEN RING. As a Tarnished, the Lands Between await your exploration. You will ride through the vast fields, gallop over rolling hills, and leap to the top of rocky crags on your ephemeral steed, revealing a world teeming with life and danger.
+</p><p>In the grand fields where your journey begins, mythic creatures prowl the veldts, ineffable horrors lurk in the bogs and marshes, and all manner of soldiers and itinerant warriors are waiting for those who wander unawares. Shy creatures nibble on sweet grasses or scuttle through the underbrush.
+</p><p>Those few inhabitants who are not mad or hostile linger near the broken remnants of cities left behind by the Shattering. They may have answers for you, if you help them. Above them all, ensconced in vast legacies bristling with traps, secrets, and guardians, the Demigods – warped Lords who began as members of a royal and noble family – rule their domains with the unyielding power granted by shards of the Elden Ring.
+</p>
+</div></div>
+<div class="col-sm-6"><h3 class="special" id="Extended_Prologue_Text">
+Extended Prologue Text</h3>
+<div class="btn-lg btn-default">The guidance of lost graces – should you find them - will put you on a road to re-take these lands from the Demigods through might and magic, but you need not follow their path.
+<p>The choice is yours. Do you crave power, or do you seek understanding? Decide for yourself, then build your character as you see fit.
+</p><p>Try dozens of skills and find one to best suit your style. Practice stealth to avoid danger or catch enemies unaware. Use the environment, the weather, and the time of day to gain an advantage. Learn the art of combat , where you must read your enemy's intentions and a well-timed dodge or parry could be the difference between life and death. Ride your steed into battle against mounted mercenaries and cut them from their horses. Master arcane spells from the masters that still linger among the ruins of the war. Summon familiar spirits to even the odds against you or call on your fellow Tarnished to fight at your side and share the burden as you explore. Or, delve into the complex, bloody history of the Shattering and discover the lost secrets of the Demigods and their kin. All these paths are possible, and more. Ultimately, your journey will be defined by the strength of your own ambition. The greater your goals, the greater the challenge will be. Should you choose to claim the Lands Between as your birthright then yes, you must fight.
+</p><p>And yes, you may die.
+</p><p>But you will return to fight again.
+</p><p>For that is how a champion – or a Lord – is born.
+</p>
+</div></div></div>
+<h3 class="bonfire" id="Elden_Ring_Location_Lore">
+<span id="location"></span>Elden Ring Location Lore</h3>
+<div class="row">
+<div class="col-sm-4"><h3 class="special" id="The_Lands_Between">
+The Lands Between</h3>
+<p style="text-align:center"><span typeof="mw:File"><a href="/File:Lore-image1-elden-ring-wik-guide-300px.png" class="mw-file-description"><img alt="lore image1 elden ring wik guide 300px" src="https://static0.fextralifeimages.com/file/eldenring/c/c3/Lore-image1-elden-ring-wik-guide-300px.png" decoding="async" loading="lazy" width="300" height="169" class="mw-file-element" /></a></span></p></div>
+<div class="col-sm-8">The Lands Between is the world of Elden Ring, and those who live in The Lands Between were blessed by Grace through the Elden Ring and the <a href="/Erdtree" title="Erdtree">Erdtree</a>. Those who were blessed by the Elden Ring are characterized by having a golden aura that can be seen in their eyes. However, at some point, some of those who were blessed lost their grace; they were exiled and labeled the Tarnished. As time passed, for unknown reasons, the Elden Ring was shattered and its shards were scattered across the Lands Between. The largest of these pieces were called Great Runes and were claimed by the six Demigod children of Queen Marika the Eternal, causing them to inherit different powers and have been physically changed and twisted due to being corrupted by the power of these runes.
+<p>The Lands Between is divided into 7 distinct areas,
+</p>
+<ol><li><a href="/Limgrave" title="Limgrave">Limgrave</a></li>
+<li><a href="/Caelid" title="Caelid">Caelid</a></li>
+<li><a href="/Liurnia_of_the_Lakes" title="Liurnia of the Lakes">Liurnia of the Lakes</a></li>
+<li><a href="/Altus_Plateau" title="Altus Plateau">Altus Plateau</a></li>
+<li><a href="/Mt_Gelmir" title="Mt Gelmir">Mt. Gelmir</a></li>
+<li><a href="/Mountaintops_of_the_Giants" title="Mountaintops of the Giants">Mountaintops of the Giants</a></li>
+<li>The River Locations (underground)</li></ol>
+<p>Each overseen by a Demigod, and features a central "overworld" that connects all of these areas. According to an interview with Miyazaki, players will have total freedom as to the order they want to tackle for each area, and it is up to the player on how they want to approach it. The <a href="/Roundtable_Hold" title="Roundtable Hold">hub area</a> similar to Firelink Shrine or Majula in previous games will not be accessible at the beginning of the game, which means you will need to progress the game until you reach the hub area.
+</p><p>According to Hidetaka Miyazaki: "The Lands Between is supposed to invoke this feeling of something that's very mysterious and very ethereal – and we hope that when players play the game, they're going to experience that."
+</p>
+</div></div>
+<h3 class="bonfire" id="Elden_Ring_Character_Lore">
+<span id="character"></span>Elden Ring Character Lore</h3>
+<div class="row">
+<div class="col-sm-4"><h3 class="special" id="The_Tarnished">
+The Tarnished</h3>
+<p style="text-align:center"><span typeof="mw:File"><a href="/File:Lore-image2-elden-ring-wik-guide-300px.png" class="mw-file-description"><img alt="lore image2 elden ring wik guide 300px" src="https://static0.fextralifeimages.com/file/eldenring/0/0d/Lore-image2-elden-ring-wik-guide-300px.png" decoding="async" loading="lazy" width="300" height="169" class="mw-file-element" /></a></span></p></div>
+<div class="col-sm-8">In the opening of the official reveal trailer that was presented in E3 2021, we see a softly spoken, hooded woman saying "The Tarnished, will soon return." The question is, who and what is The Tarnished? Simply put, you are the Tarnished. As the player, you are one of the Tarnished that have been exiled upon losing their blessing of Grace granted by the Elden Ring and the Erdtree, a tree that hosts source and life of The Lands Between. Very much like previous Souls games, where you are the Chosen Undead or the Ashen One. After the shattering of the Elden Ring, you are then called back by this lost Grace to The Lands Between, along with other Tarnished to recover the shards of the Elden Ring, to make them whole once again, and to become the Elden Lord of The Lands Between.
+<p>According to Hidetaka Miyazaki in an interview: " I feel like one of the main themes of the game is how the player, the Tarnished, approaches or treats this new-found grace and this return to the land that they were once banished from, how they interpret this and the meaning. It's not just the player-character, of course, it's lots of characters in the game, who are all beckoned back and will have their own adventures and motives. We want the player to discover for themselves what that means and how they want to begin their adventure."
+</p>
+</div></div>
+<div class="row">
+<div class="col-sm-4"><h3 class="special" id="Melina">
+<a href="/Melina" title="Melina">Melina</a></h3>
+<p style="text-align:center"><span typeof="mw:File"><a href="/File:Elden_ring_artwork_elden_ring_wiki_guide_1_300px.png" class="mw-file-description"><img alt="elden ring artwork elden ring wiki guide 1 300px" src="https://static0.fextralifeimages.com/file/eldenring/b/b2/Elden_ring_artwork_elden_ring_wiki_guide_1_300px.png" decoding="async" loading="lazy" width="300" height="169" class="mw-file-element" /></a></span></p></div>
+<div class="col-sm-8">One of the first people the Tarnished encounters on their journey, Melina maintains an air of mystery throughout the game. She does not have a physical form and acts as the Tarnished's Finger Maiden in exchange for taking her to the Erdtree, then later on, to the Mountaintops of the Giants. She approaches the Tarnished to aid her in her search for her purpose given to her by her mother, who she believes can be found at the base of the Erdtree, leading many to speculate that her mother is Marika. When summoned, she wields the Blade of Calling, a dagger that was previously owned by the kindling maiden, fitting considering her role as kindling when the Erdtree is burnt down. Speaking with Melina at various Sites of Grace reveals her ability to recall echoes of Queen Marika's past actions and words, which she offers in lieu of a "maiden's guidance".
+<p>Melina holds contempt for the Frenzied Flame and believes that whoever lords over the chaos and damage it brings is no Lord at all. If the Tarnished takes the Frenzied Flame before the event at the Forge of the Giants, she will leave them and will threaten to deliver them Destined Death once they become Lord of the Frenzied Flame.
+</p>
+</div></div>
+<div class="row">
+<div class="col-sm-4"><h3 class="special" id="White_Mask_Varre">
+<a href="/White_Mask_Varre" title="White Mask Varre">White Mask Varre</a></h3>
+<p style="text-align:center"><span typeof="mw:File"><a href="/File:White-faced-varre-npc-elden-ring-wiki-guide.png" class="mw-file-description"><img alt="white faced varre npc elden ring wiki guide" src="https://static0.fextralifeimages.com/file/eldenring/9/95/White-faced-varre-npc-elden-ring-wiki-guide.png" decoding="async" loading="lazy" width="300" height="169" class="mw-file-element" /></a></span></p></div>
+<div class="col-sm-8">The White Masks encountered in Mohgwyn Palace were initially abducted by Mogh, Lord of Blood and turned into Bloody Fingers through an unknown ritual involving Mogh's accursed Omen blood. Of the four White Masks the Tarnished encounters in game, only Varre was able to withstand and tame the accursed blood. Despite being abducted by the Lord of Blood, he remains loyal to the Mohgwyn Dynasty and tries to indoctrinate the Tarnished into the dynasty. Even as he is dying at the at the end of his questline, forsaken by his Lord, he calls out to Mohg and blesses the Mohgwyn Dynasty.
+</div></div>
+<div class="row">
+<div class="col-sm-4"><h3 class="special" id="Bloody_Finger_Hunter_Yura">
+<a href="/Bloody_Finger_Hunter_Yura" title="Bloody Finger Hunter Yura">Bloody Finger Hunter Yura</a></h3>
+<p style="text-align:center"><span typeof="mw:File"><a href="/File:Bloody-finger-hunter-yura-npc-elden-ring-wiki-guide.png" class="mw-file-description"><img alt="bloody finger hunter yura npc elden ring wiki guide" src="https://static0.fextralifeimages.com/file/eldenring/4/44/Bloody-finger-hunter-yura-npc-elden-ring-wiki-guide.png" decoding="async" loading="lazy" width="300" height="169" class="mw-file-element" /></a></span></p></div>
+<div class="col-sm-8">A samurai from the Land of Reeds whose purpose is to hunt down Bloody Fingers. His biggest target is Eleonora, Violet Bloody Finger, a Tarnished whom he holds in high regard. It is uncertain what exactly caused Eleonora's corruption into a Bloody Finger - Yura himself warns the Tarnished against the dangers of Dragon Communion, stating that those who partake in it one day lose their humanity. On the other hand, other Bloody Fingers the Tarnished encounter, some of which are Yura's targets, are those that have been approached and swayed by Mohg, the Lord of Blood himself.
+</div></div>
+<div class="row">
+<div class="col-sm-4"><h3 class="special" id="Sorcerer_Rogier">
+<a href="/Sorcerer_Rogier" title="Sorcerer Rogier">Sorcerer Rogier</a></h3>
+<p style="text-align:center"><span typeof="mw:File"><a href="/File:Rogier_elden_ring_wiki_guide_300px.png" class="mw-file-description"><img alt="rogier elden ring wiki guide 300px" src="https://static0.fextralifeimages.com/file/eldenring/c/c5/Rogier_elden_ring_wiki_guide_300px.png" decoding="async" loading="lazy" width="300" height="169" class="mw-file-element" /></a></span></p></div>
+<div class="col-sm-8">A Tarnished that, despite his easy-going nature, is said to be a wise and powerful sorcerer by his old travelling companion, D. Rogier was once a scholar seeking the truth behind the Night of the Black Knives. His scholarly pursuits eventually brought him under Stormveil Castle, where he found and disturbed a corpse, causing him to be afflicted with Death. As opposed to D who sees Those Who Live in Death as a threat against the Golden Order, Rogier is empathetic towards them, believing them to have committed no offence. By finishing Rogier's quest, the Tarnished is able to help him reveal many insights about the night of the assassination before he finally succumbs to his affliction.
+</div></div>
+<div class="row">
+<div class="col-sm-4"><h3 class="special" id="Fia">
+<a href="/Fia" title="Fia">Fia</a></h3>
+<p style="text-align:center"><span typeof="mw:File"><a href="/File:Fia-npc-elden-ring-wiki-300px2-min.png" class="mw-file-description"><img alt="fia npc elden ring wiki 300px2 min" src="https://static0.fextralifeimages.com/file/eldenring/8/8a/Fia-npc-elden-ring-wiki-300px2-min.png" decoding="async" loading="lazy" width="300" height="169" class="mw-file-element" /></a></span></p></div>
+<div class="col-sm-8">A Tarnished Deathbed Companion driven from her home when awoken by the guidance of grace. Fia describes a Deathbed Companion as a person who receives warmth and life from numerous champions, and then lays with the remains of an exalted noble to revive them, an act she says is revered in her homeland. She is empathetic towards Those Who Live in Death and put it upon herself to be their guardian.
+<p>Before meeting her at Deeproot Depths, the Tarnished will encounter her champions - one of which is Rogier, and another who is Lionel the Lionhearted, a knight Fia met on her journey to the Lands Between who declared being her father. After bringing together Ranni's half of the Cursemark of Death from the Divine Tower of Liurnia and Godwyn's half from D, she implies that being Godwyn's Deathbed Companion will have him be reborn as a rune representing Those Who Live in Death - the Mending Rune of the Death-Prince.
+</p>
+</div></div>
+<div class="row">
+<div class="col-sm-4"><h3 class="special" id="D,_Hunter_of_the_Dead">
+<a href="/D,_Hunter_of_the_Dead" title="D, Hunter of the Dead">D, Hunter of the Dead</a></h3>
+<p style="text-align:center"><span typeof="mw:File"><a href="/File:D-hunter-of-the-dead-npc-elden-ring-wiki-guide.png" class="mw-file-description"><img alt="d hunter of the dead npc elden ring wiki guide" src="https://static0.fextralifeimages.com/file/eldenring/d/d7/D-hunter-of-the-dead-npc-elden-ring-wiki-guide.png" decoding="async" loading="lazy" width="300" height="165" class="mw-file-element" /></a></span></p></div>
+<div class="col-sm-8">A devout follower of the Golden Order, D hunts Those Who Live in Death, most notably Tibia Mariners for their Deathroot. He has a twin brother whose dialogue suggests his name is Darian. Despite having separate bodies and separate minds, the twins share the same soul and one cannot be conscious when the other is. Where other Orders would have seen them as cursed beings, the two twins found comfort in the Golden Order, the one Order that doesn't. D states that Those Who Live in Death go against the principles of the Golden Order, and so they must be exterminated.
+</div></div>
+<div class="row">
+<div class="col-sm-4"><h3 class="special" id="D,_Beholder_of_Death">
+<a href="/D%27s_Twin_Brother" title="D&#39;s Twin Brother">D, Beholder of Death</a></h3>
+<p style="text-align:center"><span typeof="mw:File"><a href="/File:D_twin_brother_npcs_elden_ring_wiki_guide_300px.png" class="mw-file-description"><img alt="d twin brother npcs elden ring wiki guide 300px" src="https://static0.fextralifeimages.com/file/eldenring/thumb/d/d4/D_twin_brother_npcs_elden_ring_wiki_guide_300px.png/300px-D_twin_brother_npcs_elden_ring_wiki_guide_300px.png" decoding="async" loading="lazy" width="300" height="169" class="mw-file-element" srcset="https://static0.fextralifeimages.com/file/eldenring/d/d4/D_twin_brother_npcs_elden_ring_wiki_guide_300px.png 1.5x" /></a></span></p></div>
+<div class="col-sm-8">D's Twin Brother, whose name is inferred to be Devin from D's voicelines. He can be found slumbering in the Siofra Aqueduct while D is alive, and in the same place grieving when D is dead. Despite not being able to talk and interact with one another, the two brothers seem to be close as he swears revenge against his brother's killer, whether it be Fia or the Tarnished, when given his brother's armor set.
+</div></div>
+<div class="row">
+<div class="col-sm-4"><h3 class="special" id="Gurranq,_Beast_Clergyman">
+<a href="/Gurranq_Beast_Clergyman" title="Gurranq Beast Clergyman">Gurranq, Beast Clergyman</a></h3>
+<p style="text-align:center"><span typeof="mw:File"><a href="/File:Gurranq-beast-clergyman-npc-elden-ring-wiki-guide.png" class="mw-file-description"><img alt="gurranq beast clergyman npc elden ring wiki guide" src="https://static0.fextralifeimages.com/file/eldenring/b/bf/Gurranq-beast-clergyman-npc-elden-ring-wiki-guide.png" decoding="async" loading="lazy" width="300" height="168" class="mw-file-element" /></a></span></p></div>
+<div class="col-sm-8">A large beastman who hungers for Deathroot. Before meeting the Tarnished, D was in charge of hunting for and providing Gurranq with these Deathroot. It is heavily implied that the Beast Clergyman the Tarnished encounters in Crumbling Farum Azula is Gurranq himself as he recognizes them if they have given him all 9 Deathroot. It is therefore also implied that Gurranq is Maliketh, the Black Blade.
+<p>Maliketh is Marika's Shadow bestowed upon her by the Greater Will as an Empyrean, like how Blaidd is to Ranni. According to the Stone of Gurranq, Maliketh was a ferocious warrior whose name meant 'Death of the Demigods'. He was ordered by Marika to lock away the Rune of Death, also referred to as Destined Death. However, a fragment of the rune was stolen and used in the Night of the Black Knives, leading to the death of the first demigod, Godwyn the Golden. To ensure the rune was never stolen again, Maliketh bound his sword, imbued with the Rune of Death, within his own body and changed his name. His Remembrance implies that he was betrayed by Marika, though in what exact matter is unknown.
+</p>
+</div></div>
+<div class="row">
+<div class="col-sm-4"><h3 class="special" id="Roderika">
+<a href="/Roderika" title="Roderika">Roderika</a></h3>
+<p style="text-align:center"><span typeof="mw:File"><a href="/File:Roderika_alternative_npcs_gallery_elden_ring_wiki_600px.png" class="mw-file-description"><img alt="roderika alternative npcs gallery elden ring wiki 600px" src="https://static0.fextralifeimages.com/file/eldenring/thumb/2/21/Roderika_alternative_npcs_gallery_elden_ring_wiki_600px.png/300px-Roderika_alternative_npcs_gallery_elden_ring_wiki_600px.png" decoding="async" loading="lazy" width="300" height="169" class="mw-file-element" srcset="https://static0.fextralifeimages.com/file/eldenring/thumb/2/21/Roderika_alternative_npcs_gallery_elden_ring_wiki_600px.png/450px-Roderika_alternative_npcs_gallery_elden_ring_wiki_600px.png 1.5x, https://static0.fextralifeimages.com/file/eldenring/2/21/Roderika_alternative_npcs_gallery_elden_ring_wiki_600px.png 2x" /></a></span></p></div>
+<div class="col-sm-8">A Tarnished driven away from her home across the sea. The cloak she wears implies that she used to be a member of royalty. At some point upon arriving at the Lands Between, she happened upon White Mask Varre, who gave her the same advice as he gives the Tarnished at the beginning of their journey - to seek Godrick and his Great Rune at Stormveil Castle. Upon arriving at Stormhill, the men escorting her were taken and sacrificed for grafting, leaving her in guilt about the fact that she's too afraid to join them.
+<p>She moves to the Roundtable Hold to find purpose after receiving the hopeful echoes of her men through the Chrysalids' Memento. Here, Smithing Master Hewg recognizes her potential for spirit tuning through her eyes, and with a bit of encouragement from the Tarnished, trains her to be a skillful spirit tuner. The two become close, and even as the Roundtable Hold is burning down, she stays behind with him to repay his kindness.
+</p>
+</div></div>
+<div class="row">
+<div class="col-sm-4"><h3 class="special" id="Smithing_Master_Hewg">
+<a href="/Smithing_Master_Hewg" title="Smithing Master Hewg">Smithing Master Hewg</a></h3>
+<p style="text-align:center"><span typeof="mw:File"><a href="/File:Blacksmith_hewg_npcs_elden_ring_wiki_300px.png" class="mw-file-description"><img alt="blacksmith hewg npcs elden ring wiki 300px" src="https://static0.fextralifeimages.com/file/eldenring/8/89/Blacksmith_hewg_npcs_elden_ring_wiki_300px.png" decoding="async" loading="lazy" width="300" height="169" class="mw-file-element" /></a></span></p></div>
+<div class="col-sm-8">A misbegotten chained and imprisoned at the Roundtable Hold. Here, he is tasked by Queen Marika to smith a weapon strong enough to kill a god, a task that he makes his life goal. He will upgrade weapons and duplicate Ashes of War for the Tarnished. Hewg strongly believes the Tarnished will be the one to become Elden Lord, and will say so before he completely loses his memory.
+</div></div>
+<div class="row">
+<div class="col-sm-4"><h3 class="special" id="Nepheli_Loux">
+<a href="/Nepheli_Loux" title="Nepheli Loux">Nepheli Loux</a></h3>
+<p style="text-align:center"><span typeof="mw:File"><a href="/File:Nepheli-loux-npc-elden-ring-wiki-guide.png" class="mw-file-description"><img alt="nepheli loux npc elden ring wiki guide" src="https://static0.fextralifeimages.com/file/eldenring/c/cf/Nepheli-loux-npc-elden-ring-wiki-guide.png" decoding="async" loading="lazy" width="300" height="169" class="mw-file-element" /></a></span></p></div>
+<div class="col-sm-8">Adoptive daughter of Sir Gideon Ofnir. According to Gideon, he took her in when she lost the guidance of grace and became a Tarnished. Nepheli is a skilled warrior who believes in standing up and enacting justice for the weak and oppressed. She once believed that her adoptive father held the same beliefs, but after learning that he was the mastermind behind the attack on the Village of the Albinaurics, she loses faith in him. It is speculated that Nepheli has ties with the first Elden Lord, Godfrey, and therefore the Golden Lineage, as she bears the same last name as Hoarah Loux and as Kenneth Haight deems her worthy of taking up the mantle of leader of Limgrave.
+</div></div>
+<div class="row">
+<div class="col-sm-4"><h3 class="special" id="Kenneth_Haight">
+<a href="/Kenneth_Haight" title="Kenneth Haight">Kenneth Haight</a></h3>
+<p style="text-align:center"><span typeof="mw:File"><a href="/File:Kenneth_haight_npcs_elden_ring_wiki_300px.png" class="mw-file-description"><img alt="kenneth haight npcs elden ring wiki 300px" src="https://static0.fextralifeimages.com/file/eldenring/5/59/Kenneth_haight_npcs_elden_ring_wiki_300px.png" decoding="async" loading="lazy" width="300" height="169" class="mw-file-element" /></a></span></p></div>
+<div class="col-sm-8">A member of the Erdtree royalty, self-proclaimed rightful leader of Limgrave and owner of Fort Haight. Kenneth looks down on Godrick and deems him unworthy of ruling Limgrave for his cowardly actions during the Shattering, as well as not possessing the proper lineage required to rule. After taking back Fort Haight from Godrick's forces and seeing the state it's been left in, Kenneth laments that he doesn't have the authority to rule Limgrave and goes on to look for an eligible candidate, until he finally comes across Nepheli Loux.
+</div></div>
+<div class="row">
+<div class="col-sm-4"><h3 class="special" id="Gatekeeper_Gostoc">
+<a href="/Gatekeeper_Gostoc" title="Gatekeeper Gostoc">Gatekeeper Gostoc</a></h3>
+<p style="text-align:center"><span typeof="mw:File"><a href="/File:Gatekeeper-gostoc-npc-elden-ring-wiki-guide.png" class="mw-file-description"><img alt="gatekeeper gostoc npc elden ring wiki guide" src="https://static0.fextralifeimages.com/file/eldenring/f/fd/Gatekeeper-gostoc-npc-elden-ring-wiki-guide.png" decoding="async" loading="lazy" width="300" height="169" class="mw-file-element" /></a></span></p></div>
+<div class="col-sm-8">The Gatekeeper of Stormveil Castle. Despite this, he informs the Tarnished of a safer side passage to allow them to enter the castle undetected. He can be caught sneaking and following the Tarnished around in the castle, and each time they are defeated, Gostoc steals a portion of the Golden Runes they drop. It seems he does this with each Tarnished that comes to Stormveil Castle to challenge the shardbearer.
+<p>Gostoc holds contempt for the master of the castle, Godrick, having been mistreated and looked down upon by him. Much of Gostoc's dialogue reveals that he longs for freedom from his master and duties. However, when Nepheli takes the throne, he is happy to return to his duties.
+</p>
+</div></div>
+<div class="row">
+<div class="col-sm-4"><h3 class="special" id="Boc_the_Seamster">
+<a href="/Boc_the_Seamster" title="Boc the Seamster">Boc the Seamster</a></h3>
+<p style="text-align:center"><span typeof="mw:File"><a href="/File:Boc_npcs_elden_ring_wiki_guide_300x169px.png" class="mw-file-description"><img alt="boc npcs elden ring wiki guide 300x169px" src="https://static0.fextralifeimages.com/file/eldenring/a/ae/Boc_npcs_elden_ring_wiki_guide_300x169px.png" decoding="async" loading="lazy" width="300" height="169" class="mw-file-element" /></a></span></p></div>
+<div class="col-sm-8">A demi-human outcast often picked on for his looks. He looks up to his late mother, who was a skilled seamstress and one of few the few people who cared for him. Boc was kicked out of his former home in the Costal Cave and had his possessions stolen by the other demi-humans. After the Tarnished helps him take back his prized Sewing Needle and Tailoring Tools, he offers to tailor their armor as compensation.
+<p>Throughout his interactions with the Tarnished, Boc expresses unhappiness towards his looks. The Tarnished can either grant Boc a Larval Tear to help change his appearance or let him know he's accepted by telling him he is beautiful, both of which though different in outcome, Boc is grateful for.
+</p>
+</div></div>
+<div class="row">
+<div class="col-sm-4"><h3 class="special" id="Brother_Corhyn">
+<a href="/Brother_Corhyn" title="Brother Corhyn">Brother Corhyn</a></h3>
+<p style="text-align:center"><span typeof="mw:File"><a href="/File:Brother_corhyn_npcs_elden_ring_wiki_guide.png" class="mw-file-description"><img alt="brother corhyn npcs elden ring wiki guide" src="https://static0.fextralifeimages.com/file/eldenring/thumb/a/a1/Brother_corhyn_npcs_elden_ring_wiki_guide.png/300px-Brother_corhyn_npcs_elden_ring_wiki_guide.png" decoding="async" loading="lazy" width="300" height="169" class="mw-file-element" srcset="https://static0.fextralifeimages.com/file/eldenring/thumb/a/a1/Brother_corhyn_npcs_elden_ring_wiki_guide.png/450px-Brother_corhyn_npcs_elden_ring_wiki_guide.png 1.5x, https://static0.fextralifeimages.com/file/eldenring/a/a1/Brother_corhyn_npcs_elden_ring_wiki_guide.png 2x" /></a></span></p></div>
+<div class="col-sm-8">A cleric of the Golden Order. His armor implies that he once foretold an inauspicious prophecy, though of what exactly is unclear. Throughout his questline, Corhyn shows high and unwavering faith in the Golden Order. He is greatly interested in discovering the secrets of the Order, and so leaves the Roundtable in search for Goldmask, a great scholar of Golden Order fundamentalism.
+<p>After introducing him to Goldmask, Corhyn acts as Goldmask's scribe, translating and recording his various finger movements into written records. Corhyn holds Goldmask in high regard, but after learning of his reservations towards the Golden Order, Corhyn begins to question his master's intentions.
+</p>
+</div></div>
+<div class="row">
+<div class="col-sm-4"><h3 class="special" id="Goldmask">
+<a href="/Goldmask" title="Goldmask">Goldmask</a></h3>
+<p style="text-align:center"><span typeof="mw:File"><a href="/File:Goldmask_npcs_elden_ring_wiki_guide300px.png" class="mw-file-description"><img alt="goldmask npcs elden ring wiki guide300px" src="https://static0.fextralifeimages.com/file/eldenring/thumb/2/2c/Goldmask_npcs_elden_ring_wiki_guide300px.png/300px-Goldmask_npcs_elden_ring_wiki_guide300px.png" decoding="async" loading="lazy" width="300" height="169" class="mw-file-element" srcset="https://static0.fextralifeimages.com/file/eldenring/thumb/2/2c/Goldmask_npcs_elden_ring_wiki_guide300px.png/450px-Goldmask_npcs_elden_ring_wiki_guide300px.png 1.5x, https://static0.fextralifeimages.com/file/eldenring/2/2c/Goldmask_npcs_elden_ring_wiki_guide300px.png 2x" /></a></span></p></div>
+<div class="col-sm-8">The ever brilliant Goldmask is a famed scholar of Golden Order fundamentalism and one of many Tarnished called back to the Lands Between after the Shattering. He doesn't speak and instead communicates through rhythmic hand and finger movements.
+<p>Goldmask once lamented that hunters of Those Who Live in Death had been reduced to fanatics of the Golden Order and hunted simply for the sake of having an evil to fight against. Throughout his questline, the Tarnished aids him in better understanding the Golden Order, most notably in the nature of Radagon, to correct the imperfections that lie within the Order. With the Mending Rune of Perfect Order, Goldmask concluded that the imperfections found were due to the very gods being just as fickle as ordinary men.
+</p>
+</div></div>
+<div class="row">
+<div class="col-sm-4"><h3 class="special" id="Gowry">
+<a href="/Gowry" title="Gowry">Gowry</a></h3>
+<p style="text-align:center"><span typeof="mw:File"><a href="/File:Gowry-location-npc-elden-ring-wiki-300px-min-min.png" class="mw-file-description"><img alt="gowry location npc elden ring wiki 300px min min" src="https://static0.fextralifeimages.com/file/eldenring/8/85/Gowry-location-npc-elden-ring-wiki-300px-min-min.png" decoding="async" loading="lazy" width="300" height="169" class="mw-file-element" /></a></span></p></div>
+<div class="col-sm-8">A Kindred of Rot disguised as an old sage and Millicent's caretaker as a child. It is uncertain what or where his real form is as he returns to his shack as he was before most times after being attacked.
+<p>After Malenia's Scarlet Aeonia bloomed in Caelid during the Shattering, Gowry dedicated his services to her, believing her to be the one to bring about a new order - the Order of Rot. In the swamp of Aeonia, he found Millicent, and presumably her sisters, as babies and proceeded to raise them, hoping that when Malenia one day ascended to be the Goddess of Rot, they too would be reborn as scarlet valkyries. Of all the sisters, Gowry saw the most potential in Millicent to follow in Malenia's footsteps.
+</p><p>At the end of Millicent's quest, Gowry asks the Tarnished to aid Millicent's sisters in attacking her. He believes that the betrayal she feels from the person she trusted the most will act as a catalyst for her to 'bloom'.
+</p>
+</div></div>
+<div class="row">
+<div class="col-sm-4"><h3 class="special" id="Millicent">
+<a href="/Millicent" title="Millicent">Millicent</a></h3>
+<p style="text-align:center"><span typeof="mw:File"><a href="/File:Millicent-npc-elden-ring-wiki-300px-min-min-min.png" class="mw-file-description"><img alt="millicent npc elden ring wiki 300px min min min" src="https://static0.fextralifeimages.com/file/eldenring/1/1b/Millicent-npc-elden-ring-wiki-300px-min-min-min.png" decoding="async" loading="lazy" width="300" height="169" class="mw-file-element" /></a></span></p></div>
+<div class="col-sm-8">A daughter of Malenia, Millicent shares many striking similarities with her mother - bright red hair, a missing arm from her severe scarlet rot affliction, and skilled swordsmanship that resembles her mother's style. Due to the scarlet rot, though she feels a sense of familiarity within Gowry's Shack, Millicent does not remember her childhood with Gowry.
+<p>Upon being cured using the Unalloyed Golden Needle, Millicent sets out on a journey to seek Malenia. She hopes that she may be able to aid Malenia in resisting the call of the scarlet rot. Before she's able to reach the Empyrean, she is ambushed by her sisters at Elphael and possibly the Tarnished if they so choose. If the Tarnished defends her instead, Millicent reveals that she is aware of what Gowry hoped to she would bloom into. She removes the golden needle and succumbs to the scarlet rot, not wanting live as someone other than herself.
+</p>
+</div></div>
+<div class="row">
+<div class="col-sm-4"><h3 class="special" id="Irina">
+<a href="/Irina" title="Irina">Irina</a></h3>
+<p style="text-align:center"><span typeof="mw:File"><a href="/File:Irina_npcs_elden_ring_wiki_guide.png" class="mw-file-description"><img alt="irina npcs elden ring wiki guide" src="https://static0.fextralifeimages.com/file/eldenring/thumb/6/6e/Irina_npcs_elden_ring_wiki_guide.png/300px-Irina_npcs_elden_ring_wiki_guide.png" decoding="async" loading="lazy" width="300" height="169" class="mw-file-element" srcset="https://static0.fextralifeimages.com/file/eldenring/thumb/6/6e/Irina_npcs_elden_ring_wiki_guide.png/450px-Irina_npcs_elden_ring_wiki_guide.png 1.5x, https://static0.fextralifeimages.com/file/eldenring/6/6e/Irina_npcs_elden_ring_wiki_guide.png 2x" /></a></span></p></div>
+<div class="col-sm-8">The blind daughter of Edgar, the Commander of Castle Morne. The Tarnished meets her after crossing the Bridge of Sacrifice to the Weeping Peninsula. With the help of her father and some attendants at the castle, she escaped Castle Morne after the Misbegotten serving under the castle rebelled. She cares much for her father and implores the Tarnished to deliver a letter persuading him to leave the castle.
+<p>Their reunion unfortunately never happens as she gets murdered. From the large sword left by her corpse, it is implied that an escaped Misbegotten from Castle Morne was her killer.
+</p>
+</div></div>
+<div class="row">
+<div class="col-sm-4"><h3 class="special" id="Edgar">
+<a href="/Edgar" title="Edgar">Edgar</a></h3>
+<p style="text-align:center"><span typeof="mw:File"><a href="/File:Edgar-npcs-elden-ring-wiki-guide.png" class="mw-file-description"><img alt="edgar npcs elden ring wiki guide" src="https://static0.fextralifeimages.com/file/eldenring/d/dc/Edgar-npcs-elden-ring-wiki-guide.png" decoding="async" loading="lazy" width="300" height="167" class="mw-file-element" /></a></span></p></div>
+<div class="col-sm-8">The Commander of Castle Morne, ordained by Godrick. He has a high sense of duty and stays behind to protect the castle's prized sword, the Grafted Blade Greatsword, even after the rest of the castle's attendants had fled from the Misbegotten rebellion. After finding Irina's body, he expresses regret over not protecting her and swears vengeance towards her killers.
+<p>Edgar can later be found at Revengers Shack as an invader. From the Shabriri Grape he drops, it is speculated that he succumbed to madness from Irina's death.
+</p>
+</div></div>
+<div class="row">
+<div class="col-sm-4"><h3 class="special" id="Hyetta">
+<a href="/Hyetta" title="Hyetta">Hyetta</a></h3>
+<p style="text-align:center"><span typeof="mw:File"><a href="/File:Hyetta_2_npcs_elden_ring_wiki_300px.png" class="mw-file-description"><img alt="hyetta 2 npcs elden ring wiki 300px" src="https://static0.fextralifeimages.com/file/eldenring/2/21/Hyetta_2_npcs_elden_ring_wiki_300px.png" decoding="async" loading="lazy" width="300" height="169" class="mw-file-element" /></a></span></p></div>
+<div class="col-sm-8">A blind young woman who resembles Irina. Despite being blind, Hyetta is able to perceive some form of light every time she consumes a Shabriri Grape. While at first she is disgusted by the fact the Shabriri Grapes are human eyes, she quickly comes to terms with it and affirms that it's required for her to become a finger maiden. It seems that the Tarnished is not the only person bringing her Shabriri Grapes. Hyetta mentions that other beings with trembling hands and emaciated fingers have given her the grapes before.
+<p>Successfully completing her quest and aiding her in becoming a Finger Maiden gives the Tarnished more information on the Three Fingers and the Frenzied Flame.
+</p>
+</div></div>
+<div class="row">
+<div class="col-sm-4"><h3 class="special" id="Shabriri">
+<a href="/Shabriri" title="Shabriri">Shabriri</a></h3>
+<p style="text-align:center"><span typeof="mw:File"><a href="/File:Shabriri_npc_mountaintops_of_the_giants_elden_ring_wiki_guide.png" class="mw-file-description"><img alt="shabriri npc mountaintops of the giants elden ring wiki guide" src="https://static0.fextralifeimages.com/file/eldenring/thumb/7/7c/Shabriri_npc_mountaintops_of_the_giants_elden_ring_wiki_guide.png/300px-Shabriri_npc_mountaintops_of_the_giants_elden_ring_wiki_guide.png" decoding="async" loading="lazy" width="300" height="169" class="mw-file-element" srcset="https://static0.fextralifeimages.com/file/eldenring/thumb/7/7c/Shabriri_npc_mountaintops_of_the_giants_elden_ring_wiki_guide.png/450px-Shabriri_npc_mountaintops_of_the_giants_elden_ring_wiki_guide.png 1.5x, https://static0.fextralifeimages.com/file/eldenring/7/7c/Shabriri_npc_mountaintops_of_the_giants_elden_ring_wiki_guide.png 2x" /></a></span></p></div>
+<div class="col-sm-8">A mysterious figure who refers to himself as chaos incarnate. Shabriri inhabits Yura's body, who he claims willingly gave his body away. When the Tarnished meets him at the Mountaintops of the Giants, he tries to persuade them into becoming the Lord of Frenzied Flame and gives them information on the Frenzied Flame Proscription.
+<p>Shabriri was also the name of a man who previously had his eyes gouged out as punishment for his crime of slander. In time, his eyes were filled with the flame of frenzy. This, according to the Howl of Shabriri, was the first instance of the maddening sickness of frenzy in the Lands Between.
+</p>
+</div></div>
+<div class="row">
+<div class="col-sm-4"><h3 class="special" id="Ranni_the_Witch">
+<a href="/Ranni_the_Witch" title="Ranni the Witch">Ranni the Witch</a></h3>
+<p style="text-align:center"><span typeof="mw:File"><a href="/File:Ranni_the_witch_npcs_elden_ring_wiki_guide.png" class="mw-file-description"><img alt="ranni the witch npcs elden ring wiki guide" src="https://static0.fextralifeimages.com/file/eldenring/thumb/7/7c/Ranni_the_witch_npcs_elden_ring_wiki_guide.png/300px-Ranni_the_witch_npcs_elden_ring_wiki_guide.png" decoding="async" loading="lazy" width="300" height="169" class="mw-file-element" srcset="https://static0.fextralifeimages.com/file/eldenring/thumb/7/7c/Ranni_the_witch_npcs_elden_ring_wiki_guide.png/450px-Ranni_the_witch_npcs_elden_ring_wiki_guide.png 1.5x, https://static0.fextralifeimages.com/file/eldenring/7/7c/Ranni_the_witch_npcs_elden_ring_wiki_guide.png 2x" /></a></span></p></div>
+<div class="col-sm-8">The daughter of Rennala and Radagon. She took after her mother and discovered her own full moon - Ranni's Dark Moon - and learnt cold sorceries from the mysterious Snow Witch she encountered deep in the woods. It seems that since childhood, she's held Blaidd and Iji dearly. At some point, Ranni defeated the Glintstone Dragon, Adula, who then swore their allegiance to her.
+<p>Although she wasn't born a demigod, Radagon's unity with Marika made her eligible to be an Empyrean. Despite this, Ranni did not want to be controlled by the Two Fingers and rejected her fate. In an act of rebellion, Ranni masterminded the Night of the Black Knives, stealing the Rune of Death and imbuing its power in the knives of the Black Knife Assassins. On the night of the assassination, Ranni's body died and her soul was transferred into a doll reminiscent of her old teacher, Renna, the Snow Witch.
+</p>
+</div></div>
+<div class="row">
+<div class="col-sm-4"><h3 class="special" id="Blaidd">
+<a href="/Blaidd" title="Blaidd">Blaidd</a></h3>
+<p style="text-align:center"><span typeof="mw:File"><a href="/File:Blaidd-wolfman-location2-npc-elden-ring-wiki-300px-min.png" class="mw-file-description"><img alt="blaidd wolfman location2 npc elden ring wiki 300px min" src="https://static0.fextralifeimages.com/file/eldenring/4/4e/Blaidd-wolfman-location2-npc-elden-ring-wiki-300px-min.png" decoding="async" loading="lazy" width="300" height="169" class="mw-file-element" /></a></span></p></div>
+<div class="col-sm-8">The half-wolven Shadow of Ranni, granted to her by the Two Fingers when she became an Empyrean. Despite being an agent of the Two Fingers, his loyalties lie only with Ranni, who he considers as family. The sword he carries, the Royal Greatsword, was imbued with cold magic as proof of his loyalty.
+<p>If an Empyrean were to go against the will of the Two Fingers, their Shadow would go mad and oppose them. Though this was the fate he would eventually face, even in madness, Blaidd continued to defy his fate and remain faithful to Ranni.
+</p>
+</div></div>
+<div class="row">
+<div class="col-sm-4"><h3 class="special" id="War_Counselor_Iji">
+<a href="/War_Counselor_Iji" title="War Counselor Iji">War Counselor Iji</a></h3>
+<p style="text-align:center"><span typeof="mw:File"><a href="/File:Smithing-master-iji-npc-elden-ring-wiki-guide.png" class="mw-file-description"><img alt="smithing master iji npc elden ring wiki guide" src="https://static0.fextralifeimages.com/file/eldenring/7/74/Smithing-master-iji-npc-elden-ring-wiki-guide.png" decoding="async" loading="lazy" width="300" height="168" class="mw-file-element" /></a></span></p></div>
+<div class="col-sm-8">The only friendly Troll the Tarnished encounters on their journey. Iji has two roles within the Carian royal family. He is the royal family's blacksmith. According to Jerren, the blades smithed by Iji were blunt, but were able to resist decay when faced against scarlet rot.
+<p>Iji also acts as Ranni's war counselor, providing her and those under her with guidance on the lost city of Nokron. He cares very much for both Blaidd and Ranni and has watched over them since they were children. Despite being loyal towards Ranni, Iji's Mirrorhelm seems to imply that he feared the consequence of his treachery against the Greater Will.
+</p>
+</div></div>
+<div class="row">
+<div class="col-sm-4"><h3 class="special" id="Preceptor_Seluvis">
+<a href="/Preceptor_Seluvis" title="Preceptor Seluvis">Preceptor Seluvis</a></h3>
+<p style="text-align:center"><span typeof="mw:File"><a href="/File:Seluvis_npcs_elden_ring_wiki_guide.png" class="mw-file-description"><img alt="seluvis npcs elden ring wiki guide" src="https://static0.fextralifeimages.com/file/eldenring/thumb/b/b4/Seluvis_npcs_elden_ring_wiki_guide.png/300px-Seluvis_npcs_elden_ring_wiki_guide.png" decoding="async" loading="lazy" width="300" height="169" class="mw-file-element" srcset="https://static0.fextralifeimages.com/file/eldenring/thumb/b/b4/Seluvis_npcs_elden_ring_wiki_guide.png/450px-Seluvis_npcs_elden_ring_wiki_guide.png 1.5x, https://static0.fextralifeimages.com/file/eldenring/b/b4/Seluvis_npcs_elden_ring_wiki_guide.png 2x" /></a></span></p></div>
+<div class="col-sm-8">A magic preceptor in service to the Carian Royal family, currently aiding Ranni in her search for the dark path. Seluvis helped Sellen in some way when she was initially exiled from the academy, though she doesn't seem too fond of him when brought up.
+<p>Though prickly at first, if the Tarnished discovers his puppet collection and aids him in adding to it, he reveals his scheme to betray Ranni and add her, a demigod, to his collection. It is speculated that Seluvis and Pidia have a connection due to both their affinities towards puppets.
+</p>
+</div></div>
+<div class="row">
+<div class="col-sm-4"><h3 class="special" id="Merchant_Kale">
+<a href="/Merchant_Kale" title="Merchant Kale">Merchant Kale</a></h3>
+<p style="text-align:center"><span typeof="mw:File"><a href="/File:Merchant-kale-npc-elden-ring-wiki-guide.png" class="mw-file-description"><img alt="merchant kale npc elden ring wiki guide" src="https://static0.fextralifeimages.com/file/eldenring/d/d8/Merchant-kale-npc-elden-ring-wiki-guide.png" decoding="async" loading="lazy" width="300" height="169" class="mw-file-element" /></a></span></p></div>
+<div class="col-sm-8">One of the numerous nomadic merchants the Tarnished can buy wares off of. He is acquainted with Blaidd, who refers to him as a busybody. The nomads used to prosper as a group known as the Great Caravan. They were however accused of heresy and were cast deep underground to be buried alive. There, they summoned the flame of frenzy. Kale describes the nomadic clan as spiteful, and so it is presumed that their summoning ritual was done out of spite. The note on the Lord of Frenzied Flame implies that the nomads came to worship the frenzied flame.
+<p>This is further substantiated by pieces of Kale's cut quest that community members have been able to find. In this piece of cut content, the Tarnished would have aided Kale in discovering what happened to the Great Caravan. This would have led them to the Subterranean Shunning-Grounds, more specifically to the Frenzied Flame Proscription. He would comment on the bodies of the nomad clan found on the way to the underground area - 'sick', 'maddened', 'husks of themselves', 'hardly human anymore'. He finds out that his people were falsely accused of worshipping the Three Fingers and summoning the frenzied flame into the Lands Between. This fills him with spite towards the Greater Will and the Golden Order. He would have refused further trade with the Tarnished until they inherited the frenzied flame, after which he too would try to be granted an audience with the Three Fingers.
+</p>
+</div></div>
+<div class="row">
+<div class="col-sm-4"><h3 class="special" id="Witch-Hunter_Jerren">
+<a href="/Witch-Hunter_Jerren" title="Witch-Hunter Jerren">Witch-Hunter Jerren</a></h3>
+<p style="text-align:center"><span typeof="mw:File"><a href="/File:Witch-hunter-jerren-npcs-elden-ring-wiki-300px-min.png" class="mw-file-description"><img alt="witch hunter jerren npcs elden ring wiki 300px min" src="https://static0.fextralifeimages.com/file/eldenring/9/9f/Witch-hunter-jerren-npcs-elden-ring-wiki-300px-min.png" decoding="async" loading="lazy" width="300" height="169" class="mw-file-element" /></a></span></p></div>
+<div class="col-sm-8">Initially a nomadic wanderer, Jerren happened upon being a guest to the Carian royal family. During his time with the royal family, he was able to get acquainted with it's various members, notably Ranni, Iji, and Radahn. With the former two, he made a promise to slay a longstanding enemy of the Carian family, the Graven Witch Sellen, who had committed atrocities against many of her fellow sorcerers.
+<p>Before he got to fulfill that promise, General Radahn recruited him into his army as a guest commander during the Shattering. He is an excellent swordsman and the Flamberge he wields is one of the symbols of Redmane Castle. When the Tarnished first meets him, he heralds the beginning of the war festival.
+</p>
+</div></div>
+<div class="row">
+<div class="col-sm-4"><h3 class="special" id="Sorceress_Sellen">
+<a href="/Sorceress_Sellen" title="Sorceress Sellen">Sorceress Sellen</a></h3>
+<p style="text-align:center"><span typeof="mw:File"><a href="/File:Sorceress-sellen-npc-photo-elden-ring-wiki-guide-300px-min.png" class="mw-file-description"><img alt="sorceress sellen npc photo elden ring wiki guide 300px min" src="https://static0.fextralifeimages.com/file/eldenring/9/99/Sorceress-sellen-npc-photo-elden-ring-wiki-guide-300px-min.png" decoding="async" loading="lazy" width="300" height="169" class="mw-file-element" /></a></span></p></div>
+<div class="col-sm-8">Sellen was said to be one of the most promising sorcerers in the history of the Raya Lucaria Academy. Scholars whose studies were deemed worthy received a glintstone crown, with Sellen having a unique one from other scholars the Tarnished encounters at the academy. However, she was exiled from the academy for her obsession and forbidden pursuit of the primeval current.
+<p>While not specified in-game, there are two speculated reasons that pursuing the primeval current is prohibited at the academy. One being the dangers it brought to the sorcerer pursuing it. During her quest, Sellen mentions two other primeval sorcerers, Master Lusat and Master Azur, both of which were masters of glintstone sorcery banished from the academy. Based on the sorceries each of them gives the player, their minds were broken simply by taking a glimpse into the primeval current.
+</p><p>It is also speculated that it is forbidden due to requiring human sacrifices. According to Jerren, Sellen has killed many of her fellow sorcerers in her studies. The Graven-School Talisman notes that fashioning the bodies of sorcerers into 'seeds of stars' is one method of pursing the primeval current.
+</p><p>Because of her scholarly pursuits, Sellen was imprisoned in Witchbane Ruins by the academy and the Carian Royal Family. If the Tarnished chooses to aid in her quest however, they can help her inhabit a new unshackled body by transplanting her primeval glintstone, which is essentially her soul, into another compatible body.
+</p>
+</div></div>
+<div class="row">
+<div class="col-sm-4"><h3 class="special" id="Thops">
+<a href="/Thops" title="Thops">Thops</a></h3>
+<p style="text-align:center"><span typeof="mw:File"><a href="/File:Thops_npc_elden_ring_wiki_guide_300px.png" class="mw-file-description"><img alt="thops npc elden ring wiki guide 300px" src="https://static0.fextralifeimages.com/file/eldenring/8/82/Thops_npc_elden_ring_wiki_guide_300px.png" decoding="async" loading="lazy" width="300" height="169" class="mw-file-element" /></a></span></p></div>
+<div class="col-sm-8">A glintstone sorcerer from the Academy of Raya Lucaria. Thops was looked down upon by his fellow scholars and nicknamed Thops the Bluntstone for not having enough talent to cast powerful sorceries. Despite this animosity, he longs to return to the academy to finish his studies.
+<p>If the Tarnished chooses to aid him in his quest, he is able to complete his lifelong project. He creates the spell Thops's Barrier - a uniquely defensive glintstone sorcery able to deflect both sorceries and incantations back at its caster, a spell that is worthy of its own conspectus.
+</p>
+</div></div>
+<div class="row">
+<div class="col-sm-4"><h3 class="special" id="Miriel,_Pastor_of_Vows">
+<a href="/Miriel_Pastor_of_Vows" title="Miriel Pastor of Vows">Miriel, Pastor of Vows</a></h3>
+<p style="text-align:center"><span typeof="mw:File"><a href="/File:Miriel_alt_npcs_elden_ring_wiki_300px.png" class="mw-file-description"><img alt="miriel alt npcs elden ring wiki 300px" src="https://static0.fextralifeimages.com/file/eldenring/8/86/Miriel_alt_npcs_elden_ring_wiki_300px.png" decoding="async" loading="lazy" width="300" height="169" class="mw-file-element" /></a></span></p></div>
+<div class="col-sm-8">A large turtle and steward of the Church of Vows. Miriel is a peaceful soul who teaches the Tarnished about Absolution, though he himself does not require it if they attack him. He is well-versed in the history of Rennala and Radagon's union and is able to teach the Tarnished all manner of sorceries and incantations. As opposed to Corhyn who deems incantations not related to the Golden Order as heresy, Miriel is open-minded towards each of the sorcery and incantation scrolls the Tarnished gives him.
+</div></div>
+<div class="row">
+<div class="col-sm-4"><h3 class="special" id="Albus">
+<a href="/Albus" title="Albus">Albus</a></h3>
+<p style="text-align:center"><span typeof="mw:File"><a href="/File:Albus-npc-elden-ring-wiki-guide.png" class="mw-file-description"><img alt="albus npc elden ring wiki guide" src="https://static0.fextralifeimages.com/file/eldenring/3/3a/Albus-npc-elden-ring-wiki-guide.png" decoding="async" loading="lazy" width="300" height="169" class="mw-file-element" /></a></span></p></div>
+<div class="col-sm-8">A first generation Albinauric. The first generation of Albinaurics were created with defects in their legs, causing them to not be able to walk. According to Albus, when their legs fade, so too will their life.
+<p>The Tarnished finds him disguised as a pot to escape from Gideon's subordinates attacking the Village of the Albinaurics. He safeguards the right half of the Haligtree Secret Medallion, a medallion that is said to be key to reaching the promised land of the Albinaurics - Miquella's Haligtree.
+</p>
+</div></div>
+<div class="row">
+<div class="col-sm-4"><h3 class="special" id="Latenna">
+<a href="/Latenna" title="Latenna">Latenna</a></h3>
+<p style="text-align:center"><span typeof="mw:File"><a href="/File:Latenna-npc-elden-ring-wiki-guide.png" class="mw-file-description"><img alt="latenna npc elden ring wiki guide" src="https://static0.fextralifeimages.com/file/eldenring/6/6b/Latenna-npc-elden-ring-wiki-guide.png" decoding="async" loading="lazy" width="300" height="169" class="mw-file-element" /></a></span></p></div>
+<div class="col-sm-8">A first-generation Albinauric and one of many wolf-riding Albinauric archers. She was interrogated by an agent of Sir Gideon Ofnir (or possibly the man himself) about the second half of the Haligtree Secret Medallion, leading to the death of her faithful wolf, Lobo.
+<p>If the Tarnished approaches her with the right half of the medallion, Latenna asks them to take her to Apostate Derelict in exchange for the whereabouts of the left half of the secret medallion. Upon arriving at their destination, Latenna transfers a birthing droplet to a large Albinauric called Phillia. While it is unclear what exact purpose the droplet has, Latenna mentions that is has something to do with creating life for the Albinaurics.
+</p>
+</div></div>
+<div class="row">
+<div class="col-sm-4"><h3 class="special" id="Ensha_of_the_Royal_Remains">
+<a href="/Ensha" title="Ensha">Ensha of the Royal Remains</a></h3>
+<p style="text-align:center"><span typeof="mw:File"><a href="/File:Ensha.png" class="mw-file-description"><img alt="ensha" src="https://static0.fextralifeimages.com/file/eldenring/7/79/Ensha.png" decoding="async" loading="lazy" width="300" height="170" class="mw-file-element" /></a></span></p></div>
+<div class="col-sm-8">Sir Gideon Ofnir's silent right-hand man. The nature of his existence is obscure, however, his armor set, the Royal Remains Set, and weapon, the Clinging Bone, seem to suggest that Ensha is the reanimated remains of a king referred to as the Soulless King.
+<p>From Gideon's dialogue, it is speculated that Ensha was tasked with finding both halves of the Haligtree Secret Medallion and that he attacks the Tarnished at the Roundtable Hold to take the half that they have found.
+</p>
+</div></div>
+<div class="row">
+<div class="col-sm-4"><h3 class="special" id="Tanith">
+<a href="/Tanith" title="Tanith">Tanith</a></h3>
+<p style="text-align:center"><span typeof="mw:File"><a href="/File:Tanith_npc_elden_ring_wiki_guide_300x.png" class="mw-file-description"><img alt="tanith npc elden ring wiki guide 300x" src="https://static0.fextralifeimages.com/file/eldenring/2/25/Tanith_npc_elden_ring_wiki_guide_300x.png" decoding="async" loading="lazy" width="300" height="169" class="mw-file-element" /></a></span></p></div>
+<div class="col-sm-8">Consort to Lord Rykard and adoptive mother of Rya. Tanith worked as a dancer in an unnamed foreign land until she caught Rykard's eye and became his consort. When he swore himself to blasphemy and became one with the God-Devouring Serpent, even after his men turned against him, even after she was given the Tonic of Forgetfulness as an out, she continued to stayed by his side.
+<p>Now, she is the Lady of the Volcano Manor, recruiting Tarnished who were willing to rise against the Greater Will and become recusants. Those who proved themselves worthy were granted an audience by the Lord, where they were devoured and became part of the Volcano Manor family.
+</p>
+</div></div>
+<div class="row">
+<div class="col-sm-4"><h3 class="special" id="Bernahl">
+<a href="/Knight_Bernahl" title="Knight Bernahl">Bernahl</a></h3>
+<p style="text-align:center"><span typeof="mw:File"><a href="/File:Knight_bernahl_npcs_elden_ring_wiki_guide.png" class="mw-file-description"><img alt="knight bernahl npcs elden ring wiki guide" src="https://static0.fextralifeimages.com/file/eldenring/thumb/c/cb/Knight_bernahl_npcs_elden_ring_wiki_guide.png/300px-Knight_bernahl_npcs_elden_ring_wiki_guide.png" decoding="async" loading="lazy" width="300" height="169" class="mw-file-element" srcset="https://static0.fextralifeimages.com/file/eldenring/thumb/c/cb/Knight_bernahl_npcs_elden_ring_wiki_guide.png/450px-Knight_bernahl_npcs_elden_ring_wiki_guide.png 1.5x, https://static0.fextralifeimages.com/file/eldenring/c/cb/Knight_bernahl_npcs_elden_ring_wiki_guide.png 2x" /></a></span></p></div>
+<div class="col-sm-8">The Tarnished can first meet this Ash of War teacher in Stormhill. Bernahl was said to be a Tarnished worthy of becoming Elden Lord, carrying out his destined path without doubt, until his maiden threw herself into 'the fire'. There are a few speculations as to what this might mean, with some speculating her to have succumbed to the flame of frenzy, and others speculating that similar to Melina, she was thrown into the Forge of the Giants as kindling for burning the Erdtree.
+<p>The Tarnished can later find him as a recusant at the Volcano Manor. After defeating Rykard, Bernahl denounces the Greater Will and vows to fell them on behalf of his brother.
+</p>
+</div></div>
+<div class="row">
+<div class="col-sm-4"><h3 class="special" id="Rya">
+<a href="/Rya" title="Rya">Rya</a></h3>
+<p style="text-align:center"><span typeof="mw:File"><a href="/File:Rya_npcs_elden_ring_wiki_guide_300px.png" class="mw-file-description"><img alt="rya npcs elden ring wiki guide 300px" src="https://static0.fextralifeimages.com/file/eldenring/d/d7/Rya_npcs_elden_ring_wiki_guide_300px.png" decoding="async" loading="lazy" width="300" height="169" class="mw-file-element" /></a></span></p></div>
+<div class="col-sm-8">Rya, whose real name is Zorayas, is a Man-Serpent disguised as a human and the scout for the Volcano Manor. Only the Tarnished and her adoptive mother, Tanith, knows of her true form. She holds great regard for Tanith, and strongly believes in her work and the endeavors of the Volcano Manor.
+<p>Her quest involves her finding the truth behind her origins. She was told by Tanith that she was born by the grace of a great king. However, she notices that the Volcano Manor isn't all that it seems and eventually confronts Tanith about the secrets of the manor and other secrets she's been keeping from her. The talisman she leaves behind at the end of her quest seems to suggest her mother was Daedicar, a woman who was said to have birthed multiple grotesque children as a result of committing countless acts of adultery.
+</p>
+</div></div>
+<div class="row">
+<div class="col-sm-4"><h3 class="special" id="Patches">
+<a href="/Patches" title="Patches">Patches</a></h3>
+<p style="text-align:center"><span typeof="mw:File"><a href="/File:Patches-npc-photo-elden-ring-wiki-guide-300px-min.png" class="mw-file-description"><img alt="patches npc photo elden ring wiki guide 300px min" src="https://static0.fextralifeimages.com/file/eldenring/7/7b/Patches-npc-photo-elden-ring-wiki-guide-300px-min.png" decoding="async" loading="lazy" width="300" height="169" class="mw-file-element" /></a></span></p></div>
+<div class="col-sm-8">Patches the Untethered is a bandit who tricks unsuspecting people into various death traps and entrapment schemes. If the Tarnished spares him, he will sell them various goods that he presumably from the corpses of those he successfully tricked. He mentions that his band of bandits comprise of foot soldiers and survivors of defeated armies who were left to fend for themselves.
+<p>Patches' Emporium can be accessed when reaching Volcano Manor. It seems that he has taken a liking to Tanith, who he endangers himself to obtain the Dancer's Castanets for, an item he hopes will put her back to her right mind after Rykard's defeat.
+</p>
+</div></div>
+<div class="row">
+<div class="col-sm-4"><h3 class="special" id="Diallos">
+<a href="/Diallos" title="Diallos">Diallos</a></h3>
+<p style="text-align:center"><span typeof="mw:File"><a href="/File:Diallos-npc-elden-ring-wiki-300px-min.png" class="mw-file-description"><img alt="diallos npc elden ring wiki 300px min" src="https://static0.fextralifeimages.com/file/eldenring/1/1b/Diallos-npc-elden-ring-wiki-300px-min.png" decoding="async" loading="lazy" width="300" height="169" class="mw-file-element" /></a></span></p></div>
+<div class="col-sm-8">The youngest son of House Hoslow, Diallos lives in the shadow of his elder brother, Juno Hoslow. As opposed to Juno who is a formidable fighter, Diallos was all bark but no bite, unbefitting for a family whose motto revolves around bloodshed. Despite this, the two brothers care for each other very much, with Juno using his position to dote on Diallos, and with Diallos looking up to Juno as a role model.
+<p>Diallos hopes to become a champion in similar fashion to his brother, but later becomes disillusioned with himself and seeks out another purpose in life.
+</p>
+</div></div>
+<div class="row">
+<div class="col-sm-4"><h3 class="special" id="Jar-Bairn">
+<a href="/Jar_Bairn" title="Jar Bairn">Jar-Bairn</a></h3>
+<p style="text-align:center"><span typeof="mw:File"><a href="/File:Image_2022-03-17_071433.png" class="mw-file-description"><img alt="image 2022 03 17 071433" src="https://static0.fextralifeimages.com/file/eldenring/thumb/4/4d/Image_2022-03-17_071433.png/200px-Image_2022-03-17_071433.png" decoding="async" loading="lazy" width="200" height="182" class="mw-file-element" srcset="https://static0.fextralifeimages.com/file/eldenring/thumb/4/4d/Image_2022-03-17_071433.png/300px-Image_2022-03-17_071433.png 1.5x, https://static0.fextralifeimages.com/file/eldenring/4/4d/Image_2022-03-17_071433.png 2x" /></a></span></p></div>
+<div class="col-sm-8">A young jar living in Jarburg, a secret village of peaceful Living Jars. Jar-Bairn is one of the few living Jars capable of speaking to the Tarnished and is a warrior jar like his uncle Alexander. The Tarnished may find Jar-Bairn talking in his sleep, where he dreams about reuniting with Alexander and telling him he's a warrior jar too, poachers destroying the Living Pots at Jarburg, or later Diallos taking care of him.
+<p>Living Jar Shards contain traces of magical power and therefore fetch a high price, leading to Living Jars being a prize target for poachers. The only known item crafted with these shards is the Ironjar Aromatic, a forbidden defense-boosting consumable created by Depraved Perfumers.
+</p>
+</div></div>
+<div class="row">
+<div class="col-sm-4"><h3 class="special" id="Iron_Fist_Alexander">
+<a href="/Iron_Fist_Alexander" title="Iron Fist Alexander">Iron Fist Alexander</a></h3>
+<p style="text-align:center"><span typeof="mw:File"><a href="/File:Alexander_npc_elden_ring_wiki_guide_300px.png" class="mw-file-description"><img alt="alexander npc elden ring wiki guide 300px" src="https://static0.fextralifeimages.com/file/eldenring/8/82/Alexander_npc_elden_ring_wiki_guide_300px.png" decoding="async" loading="lazy" width="300" height="169" class="mw-file-element" /></a></span></p></div>
+<div class="col-sm-8">An older Living Jar that left his home of Jarburg to seek great battle and hone his combat skills. Alexander is a warrior jar, Living Jars filled with the remains of warriors. According to him and Jar-Bairn, warrior jars are destined to leave their home and set out on journeys alone to become great champions. Though not explicitly explained, it seems as though warrior jars are able to absorb the essence of the fallen warriors they consume and by doing so, can also pick up some of their martial prowess.
+</div></div>
+<div class="row">
+<div class="col-sm-4"><h3 class="special" id="Blackguard_Big_Boggart">
+<a href="/Blackguard_Big_Boggart" title="Blackguard Big Boggart">Blackguard Big Boggart</a></h3>
+<p style="text-align:center"><span typeof="mw:File"><a href="/File:Blackguard.png" class="mw-file-description"><img alt="blackguard" src="https://static0.fextralifeimages.com/file/eldenring/thumb/3/3f/Blackguard.png/300px-Blackguard.png" decoding="async" loading="lazy" width="300" height="169" class="mw-file-element" srcset="https://static0.fextralifeimages.com/file/eldenring/thumb/3/3f/Blackguard.png/450px-Blackguard.png 1.5x, https://static0.fextralifeimages.com/file/eldenring/thumb/3/3f/Blackguard.png/600px-Blackguard.png 2x" /></a></span></p></div>
+<div class="col-sm-8">A Tarnished and former criminal selling boiled prawns and crabs at the Boilprawn Shack, and later just outside the royal capital. It is possible that Boggart was previously convicted for thievery, as he'd stolen Rya's necklace when the Tarnished meets him. He used to be cellmates with Dung Eater, where he witnessed the latter defile the body of his friend with the Seedbed Curse. It was the most harrowing experience Boggart had ever had.
+</div></div>
+<div class="row">
+<div class="col-sm-4"><h3 class="special" id="Dung_Eater">
+<a href="/Dung_Eater" title="Dung Eater">Dung Eater</a></h3>
+<p style="text-align:center"><span typeof="mw:File"><a href="/File:Dung-eater-pic.png" class="mw-file-description"><img alt="dung eater pic" src="https://static0.fextralifeimages.com/file/eldenring/thumb/f/f9/Dung-eater-pic.png/300px-Dung-eater-pic.png" decoding="async" loading="lazy" width="300" height="171" class="mw-file-element" srcset="https://static0.fextralifeimages.com/file/eldenring/thumb/f/f9/Dung-eater-pic.png/450px-Dung-eater-pic.png 1.5x, https://static0.fextralifeimages.com/file/eldenring/f/f9/Dung-eater-pic.png 2x" /></a></span></p></div>
+<div class="col-sm-8">A Tarnished who, as his armor suggests, bears the heart of an Omen. Even before being brought back to the Lands Between, the Dung Eater was a merciless killer. He would defile the corpses of those he killed with Seedbed Curses and curse their soul to never be able to return to the Erdtree. His biggest aspiration is to defile and curse not only everyone in the Lands Between, but all future generations, a dream that can be realized by aiding him in gestating the Mending Rune of the Fell Curse.
+</div></div>
+<div class="row">
+<div class="col-sm-4"><h3 class="special" id="Enia">
+<a href="/Enia" title="Enia">Enia</a></h3>
+<p style="text-align:center"><span typeof="mw:File"><a href="/File:Enia-npc-elden-ring-wiki-guide.png" class="mw-file-description"><img alt="enia npc elden ring wiki guide" src="https://static0.fextralifeimages.com/file/eldenring/8/86/Enia-npc-elden-ring-wiki-guide.png" decoding="async" loading="lazy" width="300" height="169" class="mw-file-element" /></a></span></p></div>
+<div class="col-sm-8">A Finger Reader Crone the Tarnished encounters at the Roundtable Hold. The finger readers are interpreters for the Two Fingers, sharing the wisdom of the Greater Will to the inhabitants of the Lands Between. With the exception of Enia, the finger readers the Tarnished encounters seem to be frantic from the loss of their Two Fingers. Despite being an agent of the Greater Will, she is supportive of you burning down the Erdtree when her Two Fingers stop communicating with her.
+<p>She claims that before the Tarnished, another had gathered 2 Great Runes. It is speculated that this person is either Bernahl, whose armor suggest that he was worthy of becoming a Lord, or Vyke, who was said to be the closest who ever got to becoming Elden Lord before he suddenly sought out the Frenzied Flame.
+</p>
+</div></div>
+<h3 class="bonfire" id="List_of_Elden_Ring_Gods,_Demigods_&amp;_Lords">
+<span id="deities"></span>List of Elden Ring Gods, Demigods &amp; Lords</h3>
+<div class="row">
+<div class="col-sm-4"><h3 class="special" id="Queen_Marika">
+<a href="/Queen_Marika" class="mw-redirect" title="Queen Marika">Queen Marika</a></h3>
+<p style="text-align:center"><span typeof="mw:File"><a href="/File:Queen-marika-lore-npc-elden-ring-wiki-300px.png" class="mw-file-description"><img alt="queen marika lore npc elden ring wiki 300px" src="https://static0.fextralifeimages.com/file/eldenring/8/80/Queen-marika-lore-npc-elden-ring-wiki-300px.png" decoding="async" loading="lazy" width="300" height="169" class="mw-file-element" /></a></span></p></div>
+<div class="col-sm-8">Queen Marika, the Eternal is a Numen chosen and brought from her homeland to the Lands Between by the Greater Will to be their vassal. As an Empyrean, she was gifted Maliketh as a Shadow and half-brother, whom she entrusted the Rune of Death to when the Golden Order was established. She had two consorts during her reign, the first being Godfrey. They had three children together, Godwyn the Golden, and the Omen twins, Morgott and Mohg.
+<p>To spread the influence of the Golden Order, Marika and her followers, on behalf of the Greater Will, waged wars against several factions and gods in the lands between, the most notable ones being the Storm Lord, the fire giants and their god, the One-Eyed God, and the Academy of Raya Lucaria and the Carian royal family. While it is unclear which side instigated the war, there were also wars against the Dragons and the Godskin Apostles and their god, the Gloam-Eyed Queen.
+</p><p>Though the war against the Giants ended in their favor, Marika realized that she would be unable to extinguish the flame at the Forge of the Giants, the fabled 'flame of ruin' strong enough to burn the Erdtree, and thus cursed the final Fire Giant survivor to protect the forge for all eternity. When the last war was finally over, Marika took the the blessing of grace from Godfrey and his warriors, turning them into Tarnished, and exiled them from the Lands Between. It was then that she took Radagon to be her second consort, and had the twins Miquella and Malenia.
+</p><p>At some point, Marika started to harbor doubts towards the Greater Will and the Golden Order. It is speculated that she had a hand in the Night of the Black Knives due to her rumored connection with the Black Knife Assassins. Marika's final act of rebellion against the Greater Will was the shattering of the Elden Ring, an act that caused her imprisonment within the Erdtree and the war between the demigods.
+</p>
+</div></div>
+<div class="row">
+<div class="col-sm-4"><h3 class="special" id="Radagon_of_the_Golden_Order">
+<a href="/Radagon_of_the_Golden_Order" title="Radagon of the Golden Order">Radagon of the Golden Order</a></h3>
+<p style="text-align:center"><span typeof="mw:File"><a href="/File:Radagon-of-the-golden-order-boss-300px.png" class="mw-file-description"><img alt="radagon of the golden order boss 300px" src="https://static0.fextralifeimages.com/file/eldenring/f/f9/Radagon-of-the-golden-order-boss-300px.png" decoding="async" loading="lazy" width="300" height="170" class="mw-file-element" /></a></span></p></div>
+<div class="col-sm-8">Radagon, characterized by his flowing red locks, is Queen Marika's second chosen consort and a great warrior. His early life and how he came to be a prominent figure in the Golden Order remain a mystery. There is speculation that he may be a smaller-sized Fire Giant from the descriptions of the Sword of Milos and Giant's Red Braid. Another running theory is that he was cursed to have red hair by the Fire Giants as a result of the Golden Order's war with them. Either way, Radagon was said to have hated the red-tint of his hair.
+<p>In the war against Liurnia of the Lakes and it's inhabitants, he was tasked by Marika to lead the Erdtree's armies. The sword monuments the Tarnished can find in Liurnia suggest that there were two Liurnian Wars, and that it was after the second war that Radagon and Rennala fell in love. Radagon sought absolution at the Church of Vows using Celestial Dew, and the two were bonded by marriage, uniting the Capital of Leyndell and Academy of Raya Lucaria. The Glintstone Kris is one of the symbols of the unity of the two factions.
+</p><p>As is tradition, Rennala bestowed a Moon Greatsword onto Radagon, her spouse. They bore 3 children - General Radahn, Praetor Rykard, and Lunar Princess Ranni. However, much to Rennala's dismay, Radagon gifted her an Amber Egg and left her to join Marika's side when Godfrey and his fellow Tarnished were exiled from the Lands Between. They had the twin demigods, Miquella and Malenia, and he reforged his Moon Greatsword into the Golden Order Greatsword. A speculated explanation for the requirement of both Faith and Intelligence in casting Golden Order Incantations is due to Radagon having learnt sorceries while Rennala's consort and incantations when consort to Queen Marika.
+</p><p>It is revealed by a statue in the Royal Capital that Marika and Radagon are one and the same. It is unlcear whether they were always one, whether Radagon is a fragment of Marika, or as Melina's dialogue suggests, that they became one after becoming consorts. Despite being one and the same person, Marika and Radagon held different wills and when Marika shattered the Elden Ring, he used the same hammer she used to try to repair it.
+</p>
+</div></div>
+<div class="row">
+<div class="col-sm-4"><h3 class="special" id="Godfrey/Hoarah_Loux">
+<a href="/Godfrey,_First_Elden_Lord" title="Godfrey, First Elden Lord">Godfrey</a>/<a href="/Hoarah_Loux,_Warrior" class="mw-redirect" title="Hoarah Loux, Warrior">Hoarah Loux</a></h3>
+<p style="text-align:center"><span typeof="mw:File"><a href="/File:Godfrey_first_elden_lord_bosses_elden_ring_wiki_600px.png" class="mw-file-description"><img alt="godfrey first elden lord bosses elden ring wiki 600px" src="https://static0.fextralifeimages.com/file/eldenring/thumb/2/24/Godfrey_first_elden_lord_bosses_elden_ring_wiki_600px.png/300px-Godfrey_first_elden_lord_bosses_elden_ring_wiki_600px.png" decoding="async" loading="lazy" width="300" height="169" class="mw-file-element" srcset="https://static0.fextralifeimages.com/file/eldenring/thumb/2/24/Godfrey_first_elden_lord_bosses_elden_ring_wiki_600px.png/450px-Godfrey_first_elden_lord_bosses_elden_ring_wiki_600px.png 1.5x, https://static0.fextralifeimages.com/file/eldenring/2/24/Godfrey_first_elden_lord_bosses_elden_ring_wiki_600px.png 2x" /></a></span></p></div>
+<div class="col-sm-8">The first consort to Queen Marika and the first Elden Lord. They had 3 children together - Godwyn the Golden, and the Omen twins, Morgott and Mohg. Godfrey was originally know as Hoarah Loux, a fierce warrior with a strong bloodlust and the chieftain of the badlands. Upon being selected as Marika's first consort, he took Beast Regent Serosh upon his back to quell his insatiable bloodlust and be more befitting of a Lord.
+<p>When the Golden Order was established, he was tasked with leading several wars to further the influence of the Order, including one against the Giants, as well as the Storm Lord, who he faced alone. It also seemed that during his reign, gladitorial combat in colosseums all over the Lands Between were commonplace as rituals held to honor the Erdtree. This practice died out when Radagon became Marika's next consort.
+</p><p>After Godfrey won his last campaign and there were no worthy opponents left to battle with, Marika took away the Erdtree's blessing from him and countless others, turning them into Tarnished, whom he led out of the Lands Between in a journey referred to as the Long March. His axe was broken in a battle during this time and after the journey ended, he reverted back to becoming a simple warrior, though still carrying Serosh on his back.
+</p>
+</div></div>
+<div class="row">
+<div class="col-sm-4"><h3 class="special" id="Rennala,_Queen_of_the_Full_Moon">
+<a href="/Rennala_Queen_of_the_Full_Moon" title="Rennala Queen of the Full Moon">Rennala, Queen of the Full Moon</a></h3>
+<p style="text-align:center"><span typeof="mw:File"><a href="/File:Rennala_queen_of_the_full_moon_bosses_elden_ring_wiki_600px.png" class="mw-file-description"><img alt="rennala queen of the full moon bosses elden ring wiki 600px" src="https://static0.fextralifeimages.com/file/eldenring/thumb/d/db/Rennala_queen_of_the_full_moon_bosses_elden_ring_wiki_600px.png/300px-Rennala_queen_of_the_full_moon_bosses_elden_ring_wiki_600px.png" decoding="async" loading="lazy" width="300" height="169" class="mw-file-element" srcset="https://static0.fextralifeimages.com/file/eldenring/thumb/d/db/Rennala_queen_of_the_full_moon_bosses_elden_ring_wiki_600px.png/450px-Rennala_queen_of_the_full_moon_bosses_elden_ring_wiki_600px.png 1.5x, https://static0.fextralifeimages.com/file/eldenring/d/db/Rennala_queen_of_the_full_moon_bosses_elden_ring_wiki_600px.png 2x" /></a></span></p></div>
+<div class="col-sm-8">As a young astrologer, Rennala would always gaze up at the stars. After a chance encounter with the Full Moon, she learnt of its magic and became one of the most powerful glintstone sorcerers. Her new mastery over lunar magic bewitched the Academy of Raya Lucaria, allowing her to become head of the academy and the Glintstone Knights, as well as establish the Carian family as royalty.
+<p>During the Second Liurnian War, where the Golden Order waged territorial war against the Academy, Rennala met and fought against one of the Erdtree's champions, Radagon, where they fell in love and reconciled at the Church of Vows. As is tradition, Rennala bestowed upon her consort a Moon Greatsword, which was later reforged into the Golden Order Greatsword. Their union bore three children, Lunar Princess Ranni, General Radahn, and Praetor Rykard. One night, Rennala took Ranni out stargazing as she did in her childhood. This is what led to Ranni meeting her own moon, the Dark Moon.
+</p><p>When Godfrey was exiled from the Lands Between and Radagon returned to Marika's side, Rennala was devastated and grew weak. Her charm over the Academy fell as well, and its scholars rebelled against the Carian royal family, with the Cuckoo Knights launching an attack against Caria Manor and Rennala ending up being locked up in the Grand Library, where the Tarnished finds her cradling the Amber Egg given to her by Radagon as a parting gift.
+</p>
+</div></div>
+<h3 class="bonfire" id="Demigods">
+<a href="/Demigods" title="Demigods">Demigods</a></h3>
+<div class="row">
+<div class="col-sm-4"><h3 class="special" id="Morgott,_the_Omen_King">
+<a href="/Morgott_the_Omen_King" title="Morgott the Omen King">Morgott, the Omen King</a></h3>
+<p style="text-align:center"><span typeof="mw:File"><a href="/File:Morgott_the_omen_king_infobox_bosses_elden_ring_wiki_600px.png" class="mw-file-description"><img alt="morgott the omen king infobox bosses elden ring wiki 600px" src="https://static0.fextralifeimages.com/file/eldenring/thumb/1/14/Morgott_the_omen_king_infobox_bosses_elden_ring_wiki_600px.png/300px-Morgott_the_omen_king_infobox_bosses_elden_ring_wiki_600px.png" decoding="async" loading="lazy" width="300" height="169" class="mw-file-element" srcset="https://static0.fextralifeimages.com/file/eldenring/thumb/1/14/Morgott_the_omen_king_infobox_bosses_elden_ring_wiki_600px.png/450px-Morgott_the_omen_king_infobox_bosses_elden_ring_wiki_600px.png 1.5x, https://static0.fextralifeimages.com/file/eldenring/1/14/Morgott_the_omen_king_infobox_bosses_elden_ring_wiki_600px.png 2x" /></a></span></p></div>
+<div class="col-sm-8">Morgott is one of two Omen twins born of Queen Marika and Godfrey. The horns of an Omen were signifiers of the divine in the ages before the Erdtree, however after the establishment of the Golden Order, Omen were thought to be cursed beings without the guidance of grace. They had their horns cut off and were subject to slavery, but those born with royal blood were instead hidden from the world and shackled deep underneath Leyndell in the Subterranean Shunning-Grounds.
+<p>Despite being locked away and shunned, Morgott still loved the Order. During the Shattering, Leyndell was leaderless and defenseless. Knowing that Leyndell wouldn't accept an Omen as a leader, Morgott ruled the capital in the shadows as the Unveiled Monarch. During the Second Defense of Leyndell, he successfully defended the capital and the Erdtree from his fellow invading demigods. His dialogue suggests he attempted to claim the throne of the Elden Lord, but the Erdtree warded him off.
+</p><p>The Tarnished will first encounter Morgott under the pseudonym, Margit, preventing them from challenging Godrick in Stormveil Castle and obtaining one of many Great Runes required to enter the capital.
+</p>
+</div></div>
+<div class="row">
+<div class="col-sm-4"><h3 class="special" id="Mohg,_Lord_of_Blood">
+<a href="/Mohg,_Lord_of_Blood" title="Mohg, Lord of Blood">Mohg, Lord of Blood</a></h3>
+<p style="text-align:center"><span typeof="mw:File"><a href="/File:Mohg_the_omen_bosses_elden_ring_wiki_600px.png" class="mw-file-description"><img alt="mohg the omen bosses elden ring wiki 600px" src="https://static0.fextralifeimages.com/file/eldenring/thumb/c/cc/Mohg_the_omen_bosses_elden_ring_wiki_600px.png/300px-Mohg_the_omen_bosses_elden_ring_wiki_600px.png" decoding="async" loading="lazy" width="300" height="169" class="mw-file-element" srcset="https://static0.fextralifeimages.com/file/eldenring/thumb/c/cc/Mohg_the_omen_bosses_elden_ring_wiki_600px.png/450px-Mohg_the_omen_bosses_elden_ring_wiki_600px.png 1.5x, https://static0.fextralifeimages.com/file/eldenring/c/cc/Mohg_the_omen_bosses_elden_ring_wiki_600px.png 2x" /></a></span></p></div>
+<div class="col-sm-8">Son of Queen Marika and her first consort, Godfrey. Unlike his twin brother who distanced himself from his Omen nature, Mohg fully embraced his accursed Omen blood and traits. Like his brother, he was shackled deep within the Subterranean Shunning-Grounds. While imprisoned underground, he encountered the Formless Mother, an outer god like the Greater Will. This encounter caused his accursed omen blood to ignite, and gave him the ability to cast bloodflame incantations. Mohg used his spear, Mohgwyn's Sacred Spear, to further communicate with the Formless Mother.
+<p>At some point he managed to escape from the Subterranean Shunning-Grounds, and established the Mohgwyn Palace in a secluded part of the Siofra River. He recruited multiple people to become followers of the upcoming Mohgwyn Dynasty, offering deals to some, like Bloody Finger Okina, and kidnapping others, like the War Surgeons.
+</p><p>While he is not an Empyrean himself and thus unable to ascend to godhood, he hoped to claim the title of monarch by raising empyrean Miquella to full godhood and becoming his consort. Mohg stole the slumbering Miquella from inside the Haligtree and attempted to rouse him with his accursed blood. However, no matter how much blood he offered and how much he shared his bedchambers with the empyrean, Miquella never woke from his slumber.
+</p>
+</div></div>
+<div class="row">
+<div class="col-sm-4"><h3 class="special" id="Rykard,_Lord_of_Blasphemy">
+<a href="/Rykard,_Lord_of_Blasphemy" title="Rykard, Lord of Blasphemy">Rykard, Lord of Blasphemy</a></h3>
+<p style="text-align:center"><span typeof="mw:File"><a href="/File:Rykard-king-of-blasphemy_bosses_elden_ring_wiki_300px.png" class="mw-file-description"><img alt="rykard king of blasphemy bosses elden ring wiki 300px" src="https://static0.fextralifeimages.com/file/eldenring/5/59/Rykard-king-of-blasphemy_bosses_elden_ring_wiki_300px.png" decoding="async" loading="lazy" width="300" height="169" class="mw-file-element" /></a></span></p></div>
+<div class="col-sm-8">Praetor Rykard, Lord of the Volcano Manor and a ruthless justiciar. He is the son of Rennala and Radagon and like his siblings, became a demigod after Radagon's unity with Queen Marika. Rykard presides over Mt. Gelmir and was served by the Gelmir Knights. The lava sorceries the Tarnished can learn were created by Rykard, with some being old hexes from Mt. Gelmir that he turned into practical sorceries. At some point, Rykard met Tanith in a foreign land and brought her back to the Lands Between to be his consort.
+<p>Rykard had a hand in the Night of the Black Knives, though to what extent is unclear. The Blasphemous Claw was an item rewarded by his sister Ranni allowing him to challenge Maliketh as a last resort. The description for the Taker's Cameo implies that Rykard believed that Marika and her Order ruled by force, and so he swore himself to blasphemy and sought to overthrow them, an ambition that drew many towards him.
+</p><p>The ancient people of Mt. Gelmir worshipped a powerful serpent god that they would offer up sacrifices to. Rykard one day encountered the God-Devouring Serpent and offered himself and his Great Rune up as sacrifices to grant himself immortality, allowing him to grow and devour people and gods alike for all eternity. This fall into greed and glutinous depravity caused most of his followers to turn against him, with Tanith being a notable exception. Those who were once Gelmir Knights sought out the Serpent-Hunter, a great spear designed to hunt the immortal serpent, to put an end to their Lord. They found the mythical weapon, but were unsuccessful in defeating Rykard, as evident from the corpses holding the Serpent-Hunter in his boss room.
+</p><p>When the Tarnished visits the Volcano Manor, they can find it's members following Rykard's blasphemous path. It is later revealed that those who proved themselves as recusants were granted an audience with Rykard and became part of the family - that is by being devoured by the great serpent himself.
+</p>
+</div></div>
+<h3 class="bonfire" id="Elden_Ring_Factions">
+<span id="factions"></span>Elden Ring Factions</h3>
+<table class="wikitable">
+
+<tbody><tr>
+<td><h4 style="text-align: center;" id="Volcano_Manor">
+<a href="/Volcano_Manor" title="Volcano Manor">Volcano Manor</a></h4>
+</td>
+<td>The Volcano Manor houses a group of Recusant Tarnished led by Praetor Rykard. Those in this faction seek to rebel against the Erdtree. Before being granted an audience with their Lord and becoming a part of the family, a newly recruited Tarnished must first invade their fellow Tarnished to prove their resolve.
+</td>
+<td>
+<ul><li><a href="/Knight_Bernahl" title="Knight Bernahl">Bernahl</a></li>
+<li><a href="/Tanith" title="Tanith">Tanith</a></li>
+<li><a href="/Patches" title="Patches">Patches</a></li>
+<li><a href="/Rykard,_Lord_of_Blasphemy" title="Rykard, Lord of Blasphemy">Praetor Rykard</a></li>
+<li><a href="/Rya" title="Rya">Rya</a></li></ul>
+</td></tr>
+<tr>
+<td><h4 style="text-align: center;" id="Mohgwyn_Dynasty">
+<a href="/Mohgwyn_Dynasty" title="Mohgwyn Dynasty">Mohgwyn Dynasty</a></h4>
+</td>
+<td>A faction led by Mohg, Lord of Blood. Similar to the Volcano Manor, those in service to the Mohgwyn Dynasty invade other Tarnished and renounce the Greater Will. Bloodshed is the only motive for invasion in this faction. You'll find the beginnings of the dynasty in Mohgwyn Palace.
+</td>
+<td>
+<ul><li><a href="/Mohg,_Lord_of_Blood" title="Mohg, Lord of Blood">Mohg, Lord of Blood</a></li>
+<li><a href="/White_Mask_Varre" title="White Mask Varre">White Mask Varre</a></li></ul>
+</td></tr>
+<tr>
+<td><h4 style="text-align: center;" id="Carian_Royal_Family">
+<a href="/Carian_Royal_Family" title="Carian Royal Family">Carian Royal Family</a></h4>
+</td>
+<td>
+<p>The remaining members of this faction are Rennala, Ranni, and their trusted advisors. Though they once held power over the Academy of Raya Lucaria, Rennala's grief over Radagon's departure caused her to weaken and the academy's scholars to rebel.
+</p><p>Now, serving the royal family means serving the last Carian princess, Ranni, in her mission to usurp the Two Fingers and Greater Will, and rebel against her fate as an Empyrean.
+</p>
+</td>
+<td>
+<ul><li><a href="/Blaidd" title="Blaidd">Blaidd</a></li>
+<li><a href="/Preceptor_Seluvis" title="Preceptor Seluvis">Preceptor Seluvis</a></li>
+<li><a href="/Ranni_the_Witch" title="Ranni the Witch">Ranni the Witch</a></li>
+<li><a href="/Rennala_Queen_of_the_Full_Moon" title="Rennala Queen of the Full Moon">Rennala, Queen of the Full Moon</a></li>
+<li><a href="/War_Counselor_Iji" title="War Counselor Iji">War Counsellor Iji</a></li></ul>
+</td></tr>
+<tr>
+<td><h4 style="text-align: center;" id="Those_Who_Live_in_Death">
+<a href="/Those_Who_Live_in_Death" title="Those Who Live in Death">Those Who Live in Death</a></h4>
+</td>
+<td>Those Who Live in Death refer to the numerous undead plaguing the Lands Between. Their very existence defies the tenets of the prevalent Golden Order and so they live in persecution. Those in this faction are empathetic towards Those Who Live in Death and join them in awaiting the rise of their Lord, the first of the dead demigods, Godwyn, Prince of Death.
+</td>
+<td>
+<ul><li><a href="/Fia" title="Fia">Fia</a></li></ul>
+</td></tr>
+<tr>
+<td><h4 style="text-align: center;" id="Golden_Order">
+Golden Order</h4>
+</td>
+<td>The Golden Order, established by Queen Marika when brought to the Lands Between by the Greater Will, is the most dominant faction in the land. The tenets of this Order govern the rules and status quo to be practiced by it's followers, many of who follow blindly. However, after the Shattering and the recent departure of the Greater Will from the Lands Between, a few of its members are starting to question the infallibility of the Order.
+</td>
+<td>
+<ul><li><a href="/Brother_Corhyn" title="Brother Corhyn">Brother Corhyn</a></li>
+<li><a href="/D,_Hunter_of_the_Dead" title="D, Hunter of the Dead">D, Hunter of the Dead</a></li>
+<li><a href="/D%27s_Twin_Brother" title="D&#39;s Twin Brother">D's Twin Brother</a></li>
+<li><a href="/Goldmask" title="Goldmask">Goldmask</a></li>
+<li><a href="/Kenneth_Haight" title="Kenneth Haight">Kenneth Haight</a></li>
+<li><a href="/Radagon_of_the_Golden_Order" title="Radagon of the Golden Order">Radagon of the Golden Order</a></li>
+<li><a href="/Queen_Marika" class="mw-redirect" title="Queen Marika">Queen Marika, the Eternal</a></li></ul>
+</td></tr>
+<tr>
+<td><h4 style="text-align: center;" id="The_Frenzied_Flame">
+<a href="/The_Frenzied_Flame" title="The Frenzied Flame">The Frenzied Flame</a></h4>
+</td>
+<td>A covert faction led by the Three Fingers. Similar to the Two Fingers, the Three Fingers are vassals for a different unknown <a href="/Outer_Gods" title="Outer Gods">Outer God</a>. This outer god rejects the Greater Will and proclaims that all that is wrong with the Lands Between are due to their mistakes. Those in this faction await one who would take up the mantle of Lord of Chaos to burn the world down and melt all of its troubles away. To them, may chaos take the world.
+</td>
+<td>
+<ul><li><a href="/Hyetta" title="Hyetta">Hyetta</a></li>
+<li><a href="/Nomadic_Merchants" title="Nomadic Merchants">Nomadic Merchants</a></li>
+<li><a href="/Three_Fingers" title="Three Fingers">Three Fingers</a></li>
+<li><a href="/Shabriri" title="Shabriri">Shabriri</a></li></ul>
+</td></tr></tbody></table>
+<h3 class="titlearea" id="Lore_Theories_of_Elden_Ring">
+<span id="loretheories"></span>Lore Theories of Elden Ring</h3><p>This section is dedicated to speculative and theoretical content created by the Elden Ring community. The information therein may be based on in-game fact and real world myths, but all theory pieces are simply the interpretation of the user(s) that wrote them and not canon.
+</p>
+<p>Some of the main questions posed by the lore of the Lands Between:
+</p>
+<h4 id="What_is_the_timeline_of_the_Lands_Between?_Has_it_been_one_fairly_linear_timeline,_or_is_it_in_a_constant_state_of_cyclical_flux?">
+What is the timeline of the Lands Between? Has it been one fairly linear timeline, or is it in a constant state of cyclical flux?</h4>
+<ul><li>Is there one Erdtree that arose after the ages of the Giants and Dragons or have there been several cycles with different Erdtrees after intervening cycles of rule by the Giants, Dragons, Tarnished, etc.?</li>
+<li>Was there a war with the dragons both long ago and after the founding of the Golden Order and the defeat of the Giants, or does the ambiguous nature of their timeline reflect the special association between the Dragons and the storm outside of time?</li>
+<li>How do New Game Plus instances tie into the timeline? Are they a repeat cycle after your rule as Elden Lord and then another cycle of the Golden Order, or is it just a channel back in time to the beginning of the game?</li></ul>
+<h4 id="What_exactly_is_the_Elden_Ring?">
+What exactly is the Elden Ring?</h4>
+<ul><li>Is it a symbolic measure of power or dominance over the Erdtree specifically; a symbolic representation of any <a href="/Outer_Gods" title="Outer Gods">Outer God</a>-level power that achieves dominance over the Lands Between; an actual artifact of power that becomes controlled by the Elden Lord; or perhaps a form assumed by the <a href="/Elden_Beast" title="Elden Beast">Elden Beast</a> in order to effectuate the goals of the Greater Will?</li>
+<li>Why did Marika ultimately decide to shatter it after Godwyn's death? Was it in order to drive Godfrey out of the lands Between and initiate the Long March of the Tarnished?</li></ul>
+<h4 id="What_is_Marika?">
+What is Marika?</h4>
+<ul><li>Is Marika the Godhood vested into the Lands Between if the Elden Ring is created under the influence of the Greater Will or is she a specific entity within the most recent iterations of the Lands Between? In relation to the timeline questions posed above: is the world in endless cycles of domination by various Outer Gods who create a "Marika" as the assert their rule over the Lands Between; is it only when the Greater Will dominates the Lands Between that a "Marika" is created; or did Marika come to the Lands Between one or two cycles before our Tarnished, get elevated to Godhood in conjunction with Godfrey, then ultimately break the ring?</li>
+<li>If Marika is a specific being rather than an element of the Golden Order or a symbol of the current Elden Ring, then how did Marika come to the Lands Between and why? Was she called from the lands of the Numen similar to how the Tarnished are recalled to the Lands Between (and if so by what), or did she come for some other reason? Was she associated with the Greater Will from the outset or did she become its ally for some reason?</li>
+<li>How did she become an Empyrean (as implied by Godfrey's ascension to Elden Lord upon their marriage) and/or why did the Two Fingers select her?</li>
+<li>What is the nature of the Radagon / Marika dynamic?
+<ul><li>Is Radagon a separate being? If so, was Radagon born separate from Marika--either as her offspring with Godfrey or as a totally separate lineage--and then merged into Marika, or was he split off from Marika at some point in time and then either re-incorporated or co-imprisoned with her in the Erdtree? Does the red hair of the Giants imply that Radagon was split off from Marika as a result of the curse of the Giants? (which Radagon seems to be attempting to enforce against Marika based on his attempts to mend the Elden Ring and his defense of the Elden Beast within the Erdtree)?</li>
+<li>Or is Radagon simply another form assumed by Marika and why? In order to take action as something other than Marika or as a manifestation of an alternate personality? Is St. Trina and Miquella's dynamic a clue to Radagon and Marika's behavior?</li></ul></li>
+<li>How many <a href="/Outer_Gods" title="Outer Gods">Outer Gods</a> are there and how do they tie into the timeline questions posed above? How many Empyreans have there been, and what does this imply for the relationship between the Two Fingers and the Greater Will and/or other Outer Gods?</li>
+<li>What are the Two Fingers? Do the dead Two Fingers atop most of the Sacred Towers represent separate instances of a single Two Fingers that has left dead "clones" around the Lands Between or is each Two Fingers (and/or three fingers) an independent entity attempting to cultivate future cycles for the Elden Ring by selecting and guiding specific Empyreans and candidates for Elden Lord?</li></ul>
+<h4 id="What_is_the_Erdtree?_What_is_its_true_purpose?">
+What is the Erdtree? What is its true purpose?</h4>
+<ul><li>It is possible that the Golden Order is really nothing more than the Greater Will's diversion of the souls of the dead into the Erdtree, allowing the Will to effectively harvest the life-force of the Lands Between to power the domination of the Golden Order over Death itself.</li></ul>
+<h4 id="Is_Elden_Ring_Canon_to_the_Souls_Series?">
+Is Elden Ring Canon to the Souls Series?</h4>
+<ul><li>FromSoftware has declared that Elden Ring is an independent title with an independent storyline. Still, some players in the community believe Elden Ring can still fit into the canon of the <i>Dark Souls</i> series. The idea that Elden Ring ties into the previous Souls games in some way or acts as a prequel is one of the theories put forward in the community.<br /></li></ul>
+<h4 id="What_truly_lead_to_the_Night_of_Black_Knives?">
+What truly lead to the Night of Black Knives?</h4>
+<ul><li>Was the treachery that cause the subterranean kingdoms to be pushed underground the Night of Black Knives or was the Night of Black Knives a response to the destruction of their city by Astel? If the night is the treachery, then why did Nox initiate the plot in the first place? Did the experimentation with the Silver Tears pre-date or post-date the sinking event?</li>
+<li>Why was Ranni involved in the plot the Night of the Black Knives, and to what extent? Is she the mastermind behind the plot (as implied by Rogier) or did she merely perform the ritual to create the Black Knives? Is there some Carian connection to the Nox of Nokron and Nokstella? Have there been other attempts to overthrow the Golden Order, and if so how does this tie into the timeline questions above?</li></ul>
+<h4 id="Ranni,_Caria,_puppets,_and_the_Stars">
+Ranni, Caria, puppets, and the Stars</h4>
+<ul><li>What is the deal with the puppets in the hidden basement behind the Carian Manor, where there are puppets of a Nox, an Omenkiller, Dolores the Sleeping Arrow, Finger Maiden Therolina, a Jarwright, and, hidden behind a wall, Sellen. Are these all Seluvis' puppets as implied by much of the lore associated with the puppet summons, but if so why would he put a sign up not to touch one in particular?
+<ul><li>Omenkiller may have been to frame Gideon Ofnir for the slaughter in the village of the Albinuriacs, which leads to Nephali becoming disillusioned and susceptible to the puppet potion. Is Pidia on a personal mission here (seems so because the puppet dropped by Pidia doesn't seem to affect any game outcome other than locking out Dung Eater or Nephali's quest lines, and only Dung Eater, an unintended target, locks out an ending) or is this part of some greater plan?</li>
+<li>Given the connection between Ranni, Seulvis, and Pidia have to the puppets, as well as the existence of several Nox puppets, did Ranni frame the Nox civilization for the Night of the Black Knives? If not, why does she want the Fingerslayer Blade recovered from Nokron? She doesn't seem to use it in the Age of Stars ending, so did she use it to kill the fingers creature we find at the cathedral of Manus Celes or something else? Note that Pidia is immediately killed by his soldier puppets, implying that Ranni killed something that was aiding Pidia/Seluvis, but why would the fingers be assisting those two?</li></ul></li>
+<li>If they're all Seluvis's puppets, then what is the implication of finding out that Seluvis himself was a puppet? (Note that Seluvis collapses into the puppet pose once Pidia is killed after giving Ranni the Fingerslayer Blade.) Was he a puppet dominated by Pidia or was he controlled by his own disembodied form like Ranni?</li>
+<li>Ranni is also a puppet, so is she being controlled by her spirit (which we are told lived following her death on the night of the black knives) or is someone else masquerading as her? She seems to survive Pidia's death, so we can infer it wasn't him, but who then?</li>
+<li>If the puppets are to frame people (as potentially implied by Thops' disbelief that Sellen could have done the things the Graven Witch was accused of doing and the note about Seluvis' secret) then what are they trying to accomplish? Is that even right given the ending to Sellen's questline?</li></ul>
+<p>Here is a list of possible attempts to overthrow the Greater Will. Note that for the most part all of these are merely plausible theories and may or may not be proven in the future.
+
+</p>
+<ul><li><a href="/Smithing_Master_Hewg" title="Smithing Master Hewg">Hewg the Blacksmith</a> was assigned by <a href="/Queen_Marika" class="mw-redirect" title="Queen Marika">Queen Marika</a> to create a weapon that could slay "God" but was not able to do so in time:<br /><i>"Queen Marika, please forgive me, I haven't made a weapon that could kill God yet"</i> - <a href="/Smithing_Master_Hewg" title="Smithing Master Hewg">Hewg the Blacksmith</a></li>
+<li><a href="/Nokron,_Eternal_City" title="Nokron, Eternal City">Nokron the Eternal City</a> succeeded in creating the above mentioned weapon but was immediately accused of treason, resulting in its destruction and banishing below the earth.</li>
+<li>Marika "created" <a href="/Melina" title="Melina">Melina</a> and gave her the mission to burn down the Erdtree. <br />Melina wandered around the Lands Between in search for her purpose.<br /><i>Me, I'm searching for my purpose given to me by my mother inside the Erdtree long ago, for the reason that I yet live, burned and bodyless."</i> - <a href="/Melina" title="Melina">Melina</a></li>
+<li>The Shattering of the Ring: It is suspected that Marika did not destroy the Elden Ring out of rage over Godwyn's death. It is possible that his death merely awakened her, barely giving back enough sanity to destroy the Elden Ring in an attempt to find the strongest of the champions for them to claim the power of the <a href="/Great_Runes" title="Great Runes">Great Runes</a> and become Elden Lord (or at least free her from her suffering). <br />The war however, did not conclude in a winner as <a href="/Starscourge_Radahn" title="Starscourge Radahn">Radahn</a> and <a href="/Malenia_Blade_of_Miquella" title="Malenia Blade of Miquella">Malenia</a> proofed to be equal in strength.</li>
+<li>Marika used the last shimmer of grace to invite even the Tarnished to fight for the Great Runes and become Elden Lord, even granting them revival upon death. Radagon is trying to hinder this plan by blocking the Tarnished with the roots of the Erdtree. <br />Whether this plan succeeds is up to the player to find out.</li></ul>
+<p class="mw-empty-elt"></p>
+<p class="mw-empty-elt"></p><p class="mw-empty-elt"></p></article><article class="tabber__panel" role="tabpanel" tabindex="0" id="tabber-Shadow_of_the_Erdtree_Lore" aria-labelledby="tabber-Shadow_of_the_Erdtree_Lore-label"><p class="mw-empty-elt">
+</p><p><br />
+</p>
+<h3 class="special" id="Elden_Ring_Shadow_of_the_Erdtree_Lore_Overview">
+Elden Ring Shadow of the Erdtree Lore Overview</h3>
+<p>The <b>Shadow of the Erdtree</b> (<b>SotE</b>) DLC for <b>Elden Ring</b> takes players into the mysterious Realm of Shadow, a dark, death-filled version of the Lands Between. Hidden beneath a shrouded cloud south of the Erdtree on the original map, this eerie realm is marked by ghostly tombstones, coffins, and the Scadutree, a shadowy counterpart to the Erdtree. The story revolves around the conflicts and ambitions of key figures, including Miquella, Messmer, and St. Trina, while exploring the complicated history of factions like the Hornsent.
+</p><p>Miquella, cursed with eternal youth, plays a central role in the DLC as he seeks to complete a ritual to achieve godhood. To accomplish this, he plans to capture Radahn's soul and place it in Mohg's body, using his rebirth as a means to stand at the gates of divinity. His connection to St. Trina, revealed in the DLC, shows that they are two manifestations of the same being, much like the duality of Radagon and Marika. Throughout the journey, players encounter crosses scattered across the Realm of Shadow that symbolize the pieces of Miquella's being he sheds to prepare for rebirth.
+</p><p>Messmer, the son of Marika and brother to Miquella and Malenia, also has a significant role. Cursed with the Abyssal Serpent inside him, Messmer was tasked with purging the tower-dwelling Hornsent in the Realm of Shadow. The Hornsent, known as Omens in the Lands Between, represent an older religion that predates Marika's rule. Despite being abandoned by Marika, Messmer continues his mission and becomes an imposing figure in the DLC's narrative.
+</p><p>Players meet several key NPCs from different factions during their journey. These include Needle Knight Leda, a loyal follower of Miquella, Freyja, a warrior who once fought alongside Radahn, the Hornsent, a representative of the tower-dwelling faction, and Sir Ansbach, a former servant of Mohg. Early in the DLC, it is revealed that all these characters were united under Miquella's charm. When Miquella intentionally breaks a rune arc to free them from his influence, the group becomes divided and uncertain, revealing a darker side to Miquella's manipulative nature.
+</p><p>The DLC also deepens the mysteries surrounding St. Trina, an enigmatic figure only briefly mentioned in the base game. Interacting with St. Trina and her follower, Thiollier, uncovers her connection to Miquella and hints at the sacrifices required for his quest. Themes of identity, ambition, and rebirth run throughout the story as players uncover the complex motivations and actions of the characters involved.
+</p>
+<h3 class="bonfire" id="Elden_Ring_Shadow_of_the_Erdtree_Location_Lore">
+Elden Ring Shadow of the Erdtree Location Lore</h3>
+<div class="row">
+<div class="col-sm-4">
+<h3 class="special" id="The_Land_of_Shadow">
+The Land of Shadow</h3>
+<p style="text-align:center"><span typeof="mw:File"><a href="/File:Shadow-of-the-erdtree-elden-ring-dlc-expansion.png" class="mw-file-description"><img alt="shadow of the erdtree elden ring dlc expansion" src="https://static0.fextralifeimages.com/file/eldenring/a/a7/Shadow-of-the-erdtree-elden-ring-dlc-expansion.png" decoding="async" loading="lazy" width="300" height="168" class="mw-file-element" /></a></span></p>
+</div>
+<div class="col-sm-8">
+<p>Land of Shadow is a mysterious and dark realm obscured by the Erdtree, where the goddess Marika first set foot. It is a place filled with secrets and dangers, with vast maps, dungeons, and enemies to encounter. The lore behind this DLC suggests that players will explore the Land of Shadow guided by Empyrean Miquella, meeting others who follow him with their own motives.
+</p><p>Realm of Shadow is divided into 10 distinct areas,
+</p>
+<ol><li><a href="/Gravesite_Plain" title="Gravesite Plain">Gravesite Plain</a></li>
+<li><a href="/Scadu_Altus" title="Scadu Altus">Scadu Altus</a></li>
+<li><a href="/Rauh_Base" title="Rauh Base">Rauh Base</a></li>
+<li><a href="/Ancient_Ruins_of_Rauh" title="Ancient Ruins of Rauh">Ancient Ruins of Rauh</a></li>
+<li><a href="/Cerulean_Coast" title="Cerulean Coast">Cerulean Coast</a></li>
+<li><a href="/Charo%27s_Hidden_Grave" title="Charo&#39;s Hidden Grave">Charo's Hidden Grave</a></li>
+<li><a href="/Jagged_Peak" title="Jagged Peak">Jagged Peak</a></li>
+<li><a href="/Abyssal_Woods" title="Abyssal Woods">Abyssal Woods</a></li>
+<li><a href="/Finger_Ruins_of_Rhia" title="Finger Ruins of Rhia">Finger Ruins of Rhia</a></li>
+<li><a href="/Scaduview" title="Scaduview">Scaduview</a></li></ol>
+</div>
+</div>
+<h3 class="bonfire" id="Elden_Ring_Shadow_of_the_Erdtree_Character_Lore">
+Elden Ring Shadow of the Erdtree Character Lore</h3>
+<div class="row">
+<div class="col-sm-4">
+<h3 class="special" id="Sir_Ansbach">
+<a href="/Sir_Ansbach" title="Sir Ansbach">Sir Ansbach</a></h3>
+<h4 style="text-align: center;" id="">
+<span typeof="mw:File"><a href="/Sir_Ansbach" title="Sir Ansbach"><img alt="ansbach(1)" src="https://static0.fextralifeimages.com/file/eldenring/4/41/Ansbach%281%29.png" decoding="async" loading="lazy" width="300" height="169" class="mw-file-element" /></a></span></h4>
+</div>
+<div class="col-sm-8">
+<p>Sir Ansbach is a former servant of Mohg, Lord of Blood, but now follows Miquella in the Realm of Shadow. He was once part of the Pureblood Knights, but over time, the embroidered crest on his armor has almost completely faded. Despite knowing that his loyalty to his old master is neither logical nor just, Ansbach still holds onto his oath. This shows his deep inner struggle, as he feels unable to let it go. His attire slightly boosts his abilities related to blood magic and dynastic skills.
+</p><p>In battle, Ansbach is known for his Furious Blade of Ansbach, an incantation that summons a bloodflame blade from his hand. He then lunges at enemies to strike them down. If charged, the attack becomes even stronger, allowing him to deliver multiple slashes in quick succession. Unlike the graceful sword techniques of his dynasty, Ansbach's fighting style is more aggressive, reflecting the fearsome reputation he's earned over time.
+</p><p>Ansbach also wields the Obsidian Lamina, a sharp, slender scythe. This weapon relies on skill rather than tricks, and it allows him to cut through enemies with brutal precision. The scythe is a deadly tool in Ansbach's hands, leaving a trail of blood across the battlefield. It's a symbol of both his skill in combat and his connection to a past that he can't fully escape.
+</p>
+</div>
+</div>
+<div class="row">
+<div class="col-sm-4">
+<h3 class="special" id="Redmane_Freyja">
+<a href="/Redmane_Freyja" title="Redmane Freyja">Redmane Freyja</a></h3>
+<h4 style="text-align: center;" id="_2">
+<span typeof="mw:File"><a href="/Redmane_Freyja" title="Redmane Freyja"><img alt="freyja" src="https://static0.fextralifeimages.com/file/eldenring/c/cd/Freyja.png" decoding="async" loading="lazy" width="300" height="169" class="mw-file-element" /></a></span></h4>
+</div>
+<div class="col-sm-8">
+<p>Redmane Freyja is a former loyalist of General Radahn, one of the greatest warriors in the lands, but she has since become a devoted follower of Miquella. Known for her strength and valor, she once fought alongside Radahn, earning a place among his most distinguished knights. Freyja's armor is adorned with a black woolen mantle and the golden markings of her past, symbolizing her distinguished position in Radahn's ranks. Her helmet bears the scar of a scarlet wound, a reminder of her painful past, which was later healed by Miquella's touch, leaving a permanent scar that Freyja now views as her guiding compass.
+</p><p>Freyja wields a Greatsword, decorated with a mane, reflecting both her connection to Radahn and her strength as a warrior. The blade enhances her battle skills, a testament to her intense training and unyielding resolve. Alongside this, she carries the Golden Lion Shield, a symbol of Radahn's personal guard, awarded to only the most valorous of his knights. Her loyalty to Radahn was so great that she was honored with these weapons, but her heart has since turned toward Miquella's cause.
+</p><p>In her dialogues, Freyja speaks with respect and a sense of duty. When first meeting the Tarnished, she recalls her past with Radahn, speaking of the battles they fought together and her readiness to fight again. She also urges the Tarnished to follow the footprints of Miquella, pointing to a path that she herself walks now. Freyja has a deep bond with Miquella, describing how the god healed her scarlet rot and gave her a new sense of purpose. She expresses a sense of duty to Miquella and a need to understand the vow that Miquella made with Radahn, which she believes must be honored.
+</p><p>Throughout her interactions, Freyja maintains a warrior's mentality, proud of her combat prowess and ready to face any challenge. She speaks candidly about her past, her current loyalties, and the changes in her life after her scarlet rot was healed. In moments of reflection, she acknowledges the complexity of her path, particularly when dealing with former allies like Sir Ansbach, and the possibility of fighting alongside or against old comrades in battle. Her unwavering commitment to Miquella, however, remains her guiding force as she seeks to carve her destiny on the battlefield.
+</p>
+</div>
+</div>
+<div class="row">
+<div class="col-sm-4">
+<h3 class="special" id="Hornsent">
+<a href="/Hornsent" title="Hornsent">Hornsent</a></h3>
+<h4 style="text-align: center;" id="_3">
+<span typeof="mw:File"><a href="/Hornsent" title="Hornsent"><img alt="hornsent" src="https://static0.fextralifeimages.com/file/eldenring/9/99/Hornsent.png" decoding="async" loading="lazy" width="300" height="169" class="mw-file-element" /></a></span></h4>
+</div>
+<div class="col-sm-8">
+<p>The Hornsent is both a singular character and a race of people in Elden Ring, hailing from the Realm of Shadow. The character Hornsent, who is found alongside Freyja at the Three-Path Cross in Gravesite Plain, represents the larger group of Hornsent, who were purged by Messmer the Impaler. Hornsent holds a deep grudge against the Erdtree, which they view as an enemy of their people, as well as Marika, whom they see as having betrayed them. Despite their hatred, Hornsent follows an oath to Miquella and offers the player assistance, urging them to pursue Miquella's goals if they wish to avoid being considered an enemy.
+</p><p>Hornsent's people, the Hornsent, are characterized by their suffering and resentment. As the player aligns with Miquella, Hornsent provides maps of the crosses they've found, which mark significant locations tied to their people's pain and suffering. They express belief in Miquella's redemption, though their focus remains on avenging the wrongs done to them. Hornsent refuses to accept alms or gifts, displaying a sense of pride, but if the player aids them in their mission, Hornsent will reward them with maps and guidance.
+</p><p>Hornsent's dialogue reflects their ongoing struggle for vengeance, particularly against Messmer, who is seen as the primary source of their people's torment. After the death of Messmer, Hornsent expresses a mix of satisfaction and continuing thirst for vengeance, indicating that their quest for retribution extends beyond the Impaler to Marika and the entire Erdtree. Despite moments of vulnerability, such as when they lament the inability to enact vengeance alone, Hornsent remains unwavering in their pursuit of justice for their people.
+</p>
+</div>
+</div>
+<div class="row">
+<div class="col-sm-4">
+<h3 class="special" id="Igon">
+<a href="/Igon" title="Igon">Igon</a></h3>
+<h4 style="text-align: center;" id="_4">
+<span typeof="mw:File"><a href="/Igon" title="Igon"><img alt="igon" src="https://static0.fextralifeimages.com/file/eldenring/2/20/Igon.png" decoding="async" loading="lazy" width="300" height="169" class="mw-file-element" /></a></span></h4>
+</div>
+<div class="col-sm-8">
+<p><br />Igon, the broken drake warrior, is a tragic and vengeful character in Elden Ring, his soul consumed by pain and a burning need for revenge against the dread dragon Bayle. Severely injured and broken, Igon can be heard screaming in agony, cursing the dragon for the torment he endures, vowing vengeance. He created his own weapon, Igon's Harpoon, a great arrow adorned with sharp gravel stone pieces specifically designed to be deadly against dragons, with the hope that Bayle himself would feel fear. The harpoon represents Igon's obsession and relentless drive to defeat Bayle, even if it means fighting from beyond the grave.
+</p><p>Igon's armor, Igon's Set, is a mismatched and tattered collection of battle-worn pieces that reflect his past as a scavenger on the battlefield. Each item, such as the helm shaped like a bugle, the filthy armor, and the tattered gauntlets and loincloth, tells the story of a warrior who once sought honor through Dragon Communion. Despite the poor condition of his gear, Igon finds strength in his connection to the Dragon Communion, a bond that fuels his thirst for revenge.
+</p><p>One of Igon's most personal items is the Igon's Furled Finger, a gnarled and discolored finger that can be used to summon him to battle. In his suffering, Igon's soul still clings to the mountain where his battle with Bayle occurred, and he asks the player to scale the jagged peak to face the dragon, summoning him in a final act of defiance. Igon's Greatbow, another weapon forged in his agony, is crafted from dragon bones bound with rope and scarred by claws. The bow, much like his harpoon, is imbued with his hatred for Bayle, enhancing the power of his deadly harpoons.
+</p><p>Igon's dialogue further paints the picture of his pain and resolve. He repeatedly speaks of the exquisite pain that keeps him alive, taunting Bayle with promises of revenge. Upon encountering the player, he expresses both his agony and his unwavering desire to avenge himself, pleading for the end of his torment. When the player defeats Jagged Peak Drake, Igon briefly reflects on the past, reminding himself of the warrior he once was, before asking the player to continue the fight against Bayle on his behalf. In his final moments, Igon's words reflect both his strength as a drake warrior and the despair that drives him to seek vengeance beyond death.
+</p><p>When asked about Igon, the Dragon Communion Priestess reflects on his ambition and the insatiable hunger that led him to Dragon Communion, comparing him to Bayle in his fiery spirit and relentless drive. Igon's obsession with Bayle eventually culminates in a vow to bring the dragon to its knees, even if it means sacrificing every last bit of his strength. In the end, after Bayle is defeated, Igon's spirit is freed, and he can finally rest, knowing that his revenge has been realized.
+</p>
+</div>
+</div>
+<div class="row">
+<div class="col-sm-4">
+<h3 class="special" id="Moore">
+<a href="/Moore" title="Moore">Moore</a></h3>
+<h4 style="text-align: center;" id="_5">
+<span typeof="mw:File"><a href="/Moore" title="Moore"><img alt="moore" src="https://static0.fextralifeimages.com/file/eldenring/8/84/Moore.png" decoding="async" loading="lazy" width="300" height="169" class="mw-file-element" /></a></span></h4>
+</div>
+<div class="col-sm-8">
+<p>Moore is a gentle giant and a follower of Miquella, serving as both a merchant and a member of the Forager Brood. This group of friendly pests is dedicated to searching for crafting materials and recipes across the Land of Shadow. Moore can first be encountered at the Main Gate Cross Site of Grace, near Belurat Tower Settlement, where he is accompanied by Sir Ansbach. After speaking to Moore and purchasing an item from him, you gain access to further dialogue with both Moore and Sir Ansbach. Moore's role as a merchant is intertwined with his devotion to Miquella, the Kind, and his desire to spread joy by finding things that can help others.
+</p><p>Moore is deeply connected to his Forager Brood and expresses a strong fondness for finding things to share with others. He speaks of Miquella with great reverence and kindness, even as the group faces various trials. When the Great Rune breaks, Moore is visibly affected, yet he continues to stand tall, clinging to his devotion to Miquella, despite the loss of light. Moore's dialogue reflects his uncertainty and sadness at the absence of a motherly figure, with moments where he questions whether to remain sad forever or to move forward, embracing the idea that Miquella's love can heal all pain.
+</p><p>When interacting with Moore after meeting Thiollier, he expresses his joy in fulfilling a task, offering a Black Syrup that Thiollier had asked him to find. If the player helps a forager brood, Moore is quick to show his gratitude, offering his thanks on behalf of the group. However, his gentle nature is tested when tragedy strikes. If a forager brood member is killed, Moore is deeply troubled, and the death cannot be forgiven in his eyes. Similarly, when players invade or harm one of the foragers, Moore reacts with anger, calling it an unforgivable tragedy.
+</p><p>In moments of personal reflection, Moore shows vulnerability, particularly after the defeat of the final boss when he laments the loss of his brood and the absence of those he once considered allies, like Lady Leda, Father Dane, Sir Ansbach, Freyja, Thiollier, and the hornsent. In his solitude, Moore expresses his gratitude for the player's visits, highlighting the sadness that surrounds him after the disbandment of his brood. His final moments of dialogue express a quiet sorrow, as he wonders whether his brood's existence was ever truly meaningful. Regardless of the circumstances, Moore remains loyal to Miquella and his mission, driven by the hope that Miquella's light will someday return to guide them all.
+</p>
+</div>
+</div>
+<div class="row">
+<div class="col-sm-4">
+<h3 class="special" id="Needle_Knight_Leda">
+<a href="/Needle_Knight_Leda" title="Needle Knight Leda">Needle Knight Leda</a></h3>
+<h4 style="text-align: center;" id="_6">
+<span typeof="mw:File"><a href="/Needle_Knight_Leda" title="Needle Knight Leda"><img alt="needle" src="https://static0.fextralifeimages.com/file/eldenring/c/c3/Needle.png" decoding="async" loading="lazy" width="300" height="169" class="mw-file-element" /></a></span></h4>
+</div>
+<div class="col-sm-8">
+<p>Needle Knight Leda is the leader of Miquella's band of followers in the Realm of Shadow. She is found at the Highroad Cross Site of Grace, located near Hornsent. Leda is devoted to Miquella, whom she believes guides her along the righteous path. Upon first meeting the player, she speaks of her faith in Miquella, urging them to touch the withered arm, which serves as a portal to the Realm of Shadow, where Miquella now resides. She mentions that her companions, similarly drawn to Miquella, can provide aid if the player finds them.
+</p><p>In further dialogue, Leda emphasizes the strong bond that unites her group, which consists of individuals from distant lands. Despite their varied backgrounds, they are united in their shared devotion to Miquella. She references a silent monk named Dane, who has been serving Miquella longer than her, explaining that although he is reserved, he is a formidable warrior. Leda also discusses the hornsent, hinting at a tumultuous past between their people and the tower folk, a result of ancient conflicts instigated by Queen Marika's commands.
+</p><p>After the Great Rune is broken, Leda's character undergoes a shift. Her devotion to Miquella remains unwavering, but the breaking of Miquella's enchantment causes her to grow suspicious of her fellow followers. Leda begins to question their loyalty and proposes that the hornsent, whose desire for vengeance may jeopardize Miquella's influence, should be eliminated. In the ensuing confrontation, Leda expresses her belief that the hornsent's hatred could eventually turn against Miquella, necessitating his removal. If the player assists Leda in defeating the hornsent, she remarks on the importance of this action, claiming that the hornsent will no longer pose a threat to Miquella's cause.
+</p><p>As the story progresses, Leda's trust issues extend to other members of the group. She identifies Sir Ansbach, a former commander of the Pureblood Knights, as another individual whose loyalty may falter in the absence of Miquella's influence. Leda expresses her intention to deal with him as well, asserting that his past involvement with Miquella's blood blade makes him a potential danger.
+</p><p>Leda's story culminates in her final confrontation with the player. After the defeat of Sir Ansbach, Leda reflects on her actions, contemplating the weight of her deeds. However, she acknowledges that this is the price of ensuring Miquella's continued favor. If the player chooses to confront Leda, she will reveal the full extent of her deadly abilities, vowing to eliminate anyone who stands against Miquella's will. Whether as an ally or adversary, Leda's path is marked by unwavering devotion, suspicion, and the willingness to enforce her vision of Miquella's will at any cost.
+</p>
+</div>
+</div>
+<div class="row">
+<div class="col-sm-4">
+<h3 class="special" id="Thiollier">
+<a href="/Thiollier" title="Thiollier">Thiollier</a></h3>
+<h4 style="text-align: center;" id="_7">
+<span typeof="mw:File"><a href="/Thiollier" title="Thiollier"><img alt="thiollier" src="https://static0.fextralifeimages.com/file/eldenring/3/39/Thiollier.png" decoding="async" loading="lazy" width="300" height="169" class="mw-file-element" /></a></span></h4>
+</div>
+<div class="col-sm-8">
+<p>Thiollier is a non-combatant character in Elden Ring, known for his expertise in crafting poison rather than fighting. He can be found at the Pillar Path Cross - Site of Grace, where he can be interacted with as a merchant. Thiollier is a Tarnished, like the player, and he serves under Miquella, a figure to whom he is deeply devoted. Despite his loyalty, Thiollier is self-deprecating and openly admits his physical weakness and lack of combat prowess. He confesses that he has always been frail, but finds solace in his ability to craft poison, which is his primary skill.
+</p><p>When first encountered, Thiollier speaks of Miquella and mentions Lady Leda, acknowledging the player's guidance under the same deity. He offers assistance in various ways, and his dialogue includes hints of his personal struggles and his fascination with sleep and death. After the Great Rune is broken, Thiollier becomes more reflective, haunted by memories of St. Trina, the goddess of slumber. He expresses a longing for the poison associated with St. Trina, believing it will grant him eternal sleep, and he asks the player to help him fulfill his desire by finding St. Trina's resting place.
+</p><p>Thiollier's obsession with St. Trina leads him to follow the player's advice and seek out her location in the southern part of the world. Upon finding her, he falls deeper into his obsession, drifting into a state of intoxicated slumber, lost in his thoughts of St. Trina. As his journey progresses, Thiollier becomes increasingly erratic, demanding more of the poison to help him reach his final resting state. However, he warns the player not to follow his example, as the poison would plunge them into an eternal slumber.
+</p><p>After a series of interactions, including consuming the poison himself, Thiollier becomes more delusional, believing that only he deserves to hear St. Trina's voice. If the player tries to speak for St. Trina, Thiollier reacts with anger, accusing the player of lying and betraying him. This hostility escalates, leading to a final confrontation where Thiollier becomes even more unhinged in his pursuit of his goddess. In battle, Thiollier's poison attacks are his primary method of defense, and his words often reflect his obsessive loyalty to St. Trina.
+</p><p>Thiollier's interactions with other characters, such as Needle Knight Leda and Sir Ansbach, also reveal his role in the larger narrative. Leda acknowledges Thiollier's devotion to St. Trina, though she fears his loyalty to Miquella may be secondary. Sir Ansbach, though initially dismissive of Thiollier's apparent frailty, later praises his strength in service to his cause. Thiollier's loyalty is tested throughout the game, and his final moments reflect his unyielding desire to serve St. Trina above all else.
+</p><p>Thiollier's dialogue also hints at a deep sense of loss and isolation. As he laments the absence of his fellow followers, including Lady Leda and Sir Moore, he wonders where they have all gone. His tragic story is one of devotion, obsession, and a search for eternal peace, making him a memorable and complex character in Elden Ring.
+</p>
+</div>
+</div>
+<div class="row">
+<div class="col-sm-4">
+<h3 class="special" id="Hornsent_Grandam">
+Hornsent Grandam</h3>
+<h4 style="text-align: center;" id="_8">
+<span typeof="mw:File"><a href="/Hornsent_Grandam" title="Hornsent Grandam"><img alt="hornsent grandam npcs sote wiki guide300px1" src="https://static0.fextralifeimages.com/file/eldenring/b/b7/Hornsent_grandam_npcs_sote_wiki_guide300px1.png" decoding="async" loading="lazy" width="300" height="169" class="mw-file-element" /></a></span></h4>
+</div>
+<div class="col-sm-8">
+<p>Hornsent Grandam is a character in Elden Ring, belonging to the ancient race that once thrived in Belurat, Tower Settlement. Her people, known for their rich history and connection to the sacred Divine Beast Dancing Lion, were decimated by Messmer the Impaler and his forces. Now one of the few remaining members of her kind, Grandam serves as a tragic reminder of the destruction wrought upon her homeland. She is encountered within the ruins of her settlement, harboring deep resentment toward outsiders, whom she initially mistakes as allies of her people's oppressors.
+</p><p>When first approached, Hornsent Grandam greets the Tarnished with suspicion and bitterness, accusing them of complicity in the atrocities committed by Messmer. Her dialogue reflects her anguish, lamenting the destruction of her race and vowing that justice will be delivered through the wrath of the Divine Beast. Her words are steeped in contempt, often cursing the player and questioning their intentions, especially if they hesitate to confront the beast.
+</p>
+</div>
+</div>
+<div class="row">
+<div class="col-sm-4">
+<h3 class="special" id="Dryleaf_Dane">
+<a href="/Dryleaf_Dane" title="Dryleaf Dane">Dryleaf Dane</a></h3>
+<h4 style="text-align: center;" id="_9">
+<span typeof="mw:File"><a href="/Dryleaf_Dane" title="Dryleaf Dane"><img alt="dryleaf" src="https://static0.fextralifeimages.com/file/eldenring/7/7e/Dryleaf.png" decoding="async" loading="lazy" width="300" height="169" class="mw-file-element" /></a></span></h4>
+</div>
+<div class="col-sm-8">
+<p>Dryleaf Dane is a master of hand-to-hand combat and a devoted follower of Miquella, renowned for his unarmed martial prowess and ascetic discipline. As a sworn ally of Leda and a prominent figure of the Dryleaf Sect, Dane embodies the sect's ideals of self-sufficiency and inner strength. His martial art, Dane's Footwork, is a unique combat style emphasizing powerful and precise kicks, developed through years of rigorous training under a waterfall. By enduring the relentless force of the water and immersing himself in its basin, Dane forged both his physical endurance and spiritual resolve.
+</p><p>Travelers seeking to learn the ways of the Dryleaf Sect may encounter a Monk's Missive, a cryptic letter left by Dane. The missive invites challengers to seek him in the eastern lands, where they must prove their worth through a direct and silent confrontation. Combat with Dane is not just a test of skill but a trial of character, as his teachings are reserved only for those who embody the sect's values of self-reliance and perseverance.
+</p>
+</div>
+</div>
+<div class="row">
+<div class="col-sm-4">
+<h3 class="special" id="Count_Ymir">
+<a href="/Count_Ymir,_High_Priest" title="Count Ymir, High Priest">Count Ymir</a></h3>
+<h4 style="text-align: center;" id="_10">
+<span typeof="mw:File"><a href="/Count_Ymir" title="Count Ymir"><img alt="ymir" src="https://static0.fextralifeimages.com/file/eldenring/7/7c/Ymir.png" decoding="async" loading="lazy" width="300" height="169" class="mw-file-element" /></a></span></h4>
+</div>
+<div class="col-sm-8">
+<p>Count Ymir, the High Priest of Manus Metyr Cathedral, is a significant figure in Elden Ring, offering a variety of sorceries and lore insights to players. He oversees the Cathedral of Manus Metyr and serves as a vendor for glintstone spells, which can be purchased using runes. Ymir is deeply tied to the stars and their mysteries, often sharing philosophical musings about the Greater Will, the Erdtree, and the flaws within the world. He also provides players with maps to hallowed ruins, guiding them to crucial locations tied to their fate. Early in his questline, he gifts the Hole-Laden Necklace and a Ruins Map, marking the start of a journey shaped by the stars.
+</p><p>Ymir's companion, Jolán, plays a critical role in his story. She can be summoned during specific encounters once her questline has been advanced. Ymir speaks highly of Jolán, acknowledging her sharp demeanor while hinting at the hardships she has endured.
+</p><p>As players progress, Ymir reveals his disillusionment with the Erdtree and Marika, lamenting the world's inherent flaws and humanity's inability to find redemption. His dialogue is rich with lore, offering profound insights into the nature of the Greater Will, Miquella, and the celestial forces that influence the Lands Between. Depending on the player's actions, such as sounding the bells at the Finger Ruins, Ymir provides additional items like Beloved Stardust and updated maps that guide players further in their journey.
+</p>
+</div>
+</div>
+<div class="row">
+<div class="col-sm-4">
+<h3 class="special" id="Dragon_Communion_Priestess">
+<a href="/Dragon_Communion_Priestess" title="Dragon Communion Priestess">Dragon Communion Priestess</a></h3>
+<h4 style="text-align: center;" id="_11">
+<span typeof="mw:File"><a href="/Dragon_Communion_Priestess" title="Dragon Communion Priestess"><img alt="priestess" src="https://static0.fextralifeimages.com/file/eldenring/b/bc/Priestess.png" decoding="async" loading="lazy" width="300" height="169" class="mw-file-element" /></a></span></h4>
+</div>
+<div class="col-sm-8">
+<p>The Dragon Communion Priestess is a unique NPC in Elden Ring, serving as a surviving Ancient Dragon and an ardent worshipper of Dragonlord Placidusax. Found in a secluded shrine surrounded by remnants of dragonkind's former glory, she acts as a key figure in unraveling the lore of the Ancient Dragons.
+</p><p>As a devoted priestess, she provides players with valuable information about the fearsome dragon Bayle and her revered lord, Placidusax. Through her dialogue, the Priestess reveals the storied legacy of the dragons, their former dominion, and their eventual decline. Her presence ties deeply into the themes of Dragon Communion and offers players a chance to connect with the mystical and ancient power of the dragon lineage.
+</p>
+</div>
+</div>
+<div class="row">
+<div class="col-sm-4">
+<h3 class="special" id="Jolan">
+<a href="/Jolan" title="Jolan">Jolan</a></h3>
+<h4 style="text-align: center;" id="_12">
+<span typeof="mw:File"><a href="/Jolan" title="Jolan"><img alt="jolan (1)" src="https://static0.fextralifeimages.com/file/eldenring/e/e7/Jolan_%281%29.png" decoding="async" loading="lazy" width="300" height="169" class="mw-file-element" /></a></span></h4>
+</div>
+<div class="col-sm-8">
+<p>Jolán is a loyal warrior who serves Count Ymir, the High Priest of Manus Metyr. She can be found in the Cathedral of Manus Metyr, standing on a pillar to the right of Count Ymir in the same room where players first meet him. Jolán is initially cold and uninterested in talking to the player, focusing only on her duty to Count Ymir. She warns the player that crossing him will bring regret but shows some respect if the player gains Ymir's trust.
+</p><p>Jolán speaks highly of Count Ymir, calling him a guiding "star" in the dark sky. She believes that Ymir is the only true light in the night, and her loyalty to him is unshakable. As the player continues their journey, Jolán's attitude softens slightly, but her loyalty to Ymir remains. If the player betrays or harms Count Ymir, Jolán will turn against them and fight to protect her lord's will.
+</p>
+</div>
+</div>
+<div class="row">
+<div class="col-sm-4">
+<h3 class="special" id="Fire_Knight_Queelign">
+<a href="/Fire_Knight_Queelign" title="Fire Knight Queelign">Fire Knight Queelign</a></h3>
+<h4 style="text-align: center;" id="_13">
+<span typeof="mw:File"><a href="/Fire_Knight_Queelign_(NPC)" title="Fire Knight Queelign (NPC)"><img alt="queelign" src="https://static0.fextralifeimages.com/file/eldenring/2/24/Queelign.png" decoding="async" loading="lazy" width="300" height="169" class="mw-file-element" /></a></span></h4>
+</div>
+<div class="col-sm-8">
+<p>Fire Knight Queelign is an NPC introduced in the Shadow of the Erdtree expansion for Elden Ring. He is a knight who pledges his loyalty to Queen Marika, and his story is closely tied to the crusades fought in her name. Fire Knight Queelign is first encountered as an NPC Invader in both the Belurat Tower Settlement and the Church of Crusade.
+</p><p>In battle, Queelign wields a unique greatsword known as Queelign's Greatsword, a heavy weapon with a blade that undulates like fire. This weapon was remade by Queelign in the shape of the lance once wielded by his liege, symbolizing his dedication to the crusade and his desire to become a second Impaler, a figure revered in the fight for Marika's cause.
+</p><p>Queelign's spirit can be summoned using the Fire Knight Queelign item, an ashen remains that allows the player to call forth his ghostly form. When summoned, Queelign attacks immediately with his spear-like greatsword, which impales foes with fire while protecting the purity of Marika. His attacks are relentless, reflecting his undying devotion to his queen and the crusade.
+</p>
+</div>
+</div>
+<div class="row">
+<div class="col-sm-4">
+<h3 class="special" id="St._Trina">
+<a href="/St._Trina" title="St. Trina">St. Trina</a></h3>
+<h4 style="text-align: center;" id="_14">
+<span typeof="mw:File"><a href="/St._Trina" title="St. Trina"><img alt="st trina npc elden ring wiki guide" src="https://static0.fextralifeimages.com/file/eldenring/0/09/St-trina-npc-elden-ring-wiki-guide.png" decoding="async" loading="lazy" width="300" height="169" class="mw-file-element" /></a></span></h4>
+</div>
+<div class="col-sm-8">
+<p><br />St. Trina is an NPC introduced in the Shadow of the Erdtree DLC for Elden Ring. She is located in the deepest part of Stone Coffin Fissure, within the Garden of Deep Purple. Though she makes her first appearance in the DLC, St. Trina was referenced in the base game through various item descriptions, including St. Trina's Torch, which hinted at her connection to the lore and events surrounding Miquella, a key figure in the game's storyline.
+</p><p>When players interact with St. Trina after imbibing nectar multiple times, she expresses deep concern over Miquella's fate. Her dialogue reveals her perspective on Miquella's potential godhood, suggesting that it would be a curse rather than a blessing. She first implores players to stop Miquella from ascending to godhood, believing that turning him into a god would ultimately trap him in a form of prison, rendering him beyond saving. If the player continues, St. Trina's dialogue becomes more desperate, urging them to kill Miquella and grant him forgiveness for the tragedy that his divinity would bring.
+</p>
+</div>
+</div>
+<p class="mw-empty-elt"></p>
+<p class="mw-empty-elt"></p></article></section></div>
+<p class="mw-empty-elt"></p>
+<p class="mw-empty-elt"></p>
+<!-- 
+NewPP limit report
+Cached time: 20261006122329
+Cache expiry: 86400
+Reduced expiry: false
+Complications: [no‐toc]
+CPU time usage: 0.082 seconds
+Real time usage: 0.292 seconds
+Preprocessor visited node count: 862/1000000
+Post‐expand include size: 110861/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 4/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 140849/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  266.001      1 -total
+ 16.44%   43.721      1 Subcontent:Lore_1_Shadow_of_the_Erdtree_Lore
+  4.96%   13.191      1 Subcontent:Lore_2_Base_Game_Lore
+-->
+
+<!-- Saved in parser cache with key live_mediawiki_eldenring:pcache:idhash:25690-0!canonical and timestamp 20261006122329 and revision id 742944. Rendering was triggered because: unknown
+ -->
+</div><div class="valnet-category-cloud"><div class="valnet-category-cloud__section"><div class="valnet-category-cloud__heading"><a href="/Category:World_Information" title="Category:World Information">World Information</a></div><div class="valnet-category-cloud__items"><span class="valnet-category-cloud__item"><a href="/Covenants" title="Covenants">Covenants</a></span> <span class="valnet-category-cloud__item"><a href="/Creatures_and_Enemies" title="Creatures and Enemies">Creatures and Enemies</a></span> <span class="valnet-category-cloud__item"><a href="/Locations" title="Locations">Locations</a></span> <span class="valnet-category-cloud__item"><a href="/Lore" title="Lore">Lore</a></span> <span class="valnet-category-cloud__item"><a href="/Bosses" title="Bosses">Bosses</a></span> <span class="valnet-category-cloud__item"><a href="/NPCs" title="NPCs">NPCs</a></span> <span class="valnet-category-cloud__item"><a href="/Shadow_of_the_Erdtree_Map" title="Shadow of the Erdtree Map">Shadow of the Erdtree Map</a></span></div></div></div></div><div class="printfooter">
+Retrieved from "<a dir="ltr" href="https://eldenring.wiki.fextralife.com/index.php?title=Lore&amp;oldid=742944">https://eldenring.wiki.fextralife.com/index.php?title=Lore&amp;oldid=742944</a>"</div>
+<div class="section-heading" id="join-discussion"><span>Join the page discussion</span></div><div class="visualClear"></div></div></div></div></div><aside class="mw-content-sidebar fex-skin-content__sidebar" aria-label="Wiki sidebar"><div id="sidebar-first" class="fex-skin-sidebar-ad fex-skin-sidebar-ad--top" data-fex-ad-position="top"></div><div class="fex-skin-sidebar-widget fex-skin-sidebar-widget--popular" aria-labelledby="fex-sidebar-popular-title"><div class="fex-skin-sidebar-widget__header"><h2 class="fex-skin-sidebar-widget__title" id="fex-sidebar-popular-title">Popular Wikis</h2><a class="fex-skin-sidebar-widget__all-link" href="https://www.wiki.fextralife.com/"><span>All Wikis</span><span class="fex-icon--long-arrow-right" aria-hidden="true"></span></a></div><div id="featured-wikis-content"><div class="featured-wiki"><a class="featured-wiki-image-link" href="https://eldenring.wiki.fextralife.com/Elden+Ring+Wiki" title="Elden Ring"><span class="featured-wiki-image" style="background-image: url('https://static0.fextralifeimages.com/wordpress/wp-content/uploads/2025/10/elden-ring-tarnished-edition-cover-delayed.jpeg')"></span></a><div class="featured-wiki-details"><a class="featured-wiki-title" href="https://eldenring.wiki.fextralife.com/Elden+Ring+Wiki" title="Elden Ring">Elden Ring</a><div class="featured-wiki-text">4,606 pages</div></div></div><div class="featured-wiki"><a class="featured-wiki-image-link" href="https://graveyardkeeper2.wiki.fextralife.com/Graveyard+Keeper+2+Wiki" title="Graveyard Keeper 2 Wiki"><span class="featured-wiki-image" style="background-image: url('https://static0.fextralifeimages.com/file/graveyardkeeper2/logo.png?v=1790105587')"></span></a><div class="featured-wiki-details"><a class="featured-wiki-title" href="https://graveyardkeeper2.wiki.fextralife.com/Graveyard+Keeper+2+Wiki" title="Graveyard Keeper 2 Wiki">Graveyard Keeper 2 Wiki</a><div class="featured-wiki-text">187 pages</div></div></div><div class="featured-wiki"><a class="featured-wiki-image-link" href="https://fortunesweave.wiki.fextralife.com/Fire+Emblem+Fortune%27s+Weave+Wiki" title="Fire Emblem Fortune&#039;s Weave Wiki"><span class="featured-wiki-image" style="background-image: url('https://static0.fextralifeimages.com/file/fortunesweave/logo.png?v=1789578928')"></span></a><div class="featured-wiki-details"><a class="featured-wiki-title" href="https://fortunesweave.wiki.fextralife.com/Fire+Emblem+Fortune%27s+Weave+Wiki" title="Fire Emblem Fortune&#039;s Weave Wiki">Fire Emblem Fortune&#039;s Weave Wiki</a><div class="featured-wiki-text">647 pages</div></div></div><div class="featured-wiki"><a class="featured-wiki-image-link" href="https://bloodofdawnwalker.wiki.fextralife.com/Blood+of+Dawnwalker+Wiki" title="The Blood of Dawnwalker Wiki"><span class="featured-wiki-image" style="background-image: url('https://static0.fextralifeimages.com/file/bloodofdawnwalker/logo.png?v=1786998756')"></span></a><div class="featured-wiki-details"><a class="featured-wiki-title" href="https://bloodofdawnwalker.wiki.fextralife.com/Blood+of+Dawnwalker+Wiki" title="The Blood of Dawnwalker Wiki">The Blood of Dawnwalker Wiki</a><div class="featured-wiki-text">1,762 pages</div></div></div></div></div><div class="fex-skin-content__sidebar"><div class="fex-skin-sidebar-widget fex-skin-sidebar-social" aria-labelledby="fex-sidebar-social-title"><h2 class="fex-skin-sidebar-widget__title" id="fex-sidebar-social-title">Follow us on socials</h2><div class="fex-skin-sidebar-social__links"><a class="fex-skin-sidebar-social__link fex-skin-sidebar-social__link--youtube" href="https://www.youtube.com/channel/UClkUHCETNUph8vM-4gQpwUA" target="_blank" rel="noopener noreferrer" aria-label="YouTube"><span class="fex-icon--youtube" aria-hidden="true"></span></a><a class="fex-skin-sidebar-social__link fex-skin-sidebar-social__link--tiktok" href="https://www.tiktok.com/@fextralifeshorts" target="_blank" rel="noopener noreferrer" aria-label="TikTok"><span class="fex-icon--tiktok" aria-hidden="true"></span></a><a class="fex-skin-sidebar-social__link fex-skin-sidebar-social__link--facebook" href="https://www.facebook.com/Fextralife" target="_blank" rel="noopener noreferrer" aria-label="Facebook"><span class="fex-icon--facebook" aria-hidden="true"></span></a><a class="fex-skin-sidebar-social__link fex-skin-sidebar-social__link--x" href="https://x.com/Fextralife" target="_blank" rel="noopener noreferrer" aria-label="X"><span class="fex-icon--x" aria-hidden="true"></span></a><a class="fex-skin-sidebar-social__link fex-skin-sidebar-social__link--reddit" href="https://www.reddit.com/r/FextralifeOfficial/" target="_blank" rel="noopener noreferrer" aria-label="Reddit"><span class="fex-icon--reddit" aria-hidden="true"></span></a></div></div></div><div id="sidebar-last" class="fex-skin-sidebar-ad fex-skin-sidebar-ad--bottom" data-fex-ad-position="bottom"></div></aside><div id="content-bottom-stuff"><div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/Special:Categories" title="Special:Categories">Categories</a>: <ul><li><a href="/index.php?title=Category:Pages_using_Tabber_parser_tag&amp;action=tinymceedit&amp;redlink=1" class="new" title="Category:Pages using Tabber parser tag (page does not exist)">Pages using Tabber parser tag</a></li><li><a href="/index.php?title=Category:World_Information&amp;action=tinymceedit&amp;redlink=1" class="new" title="Category:World Information (page does not exist)">World Information</a></li></ul></div></div></div></div><div class="visualClear"></div></div></div><div id="mw-footer-container" class="mw-footer-container ts-container"><div id="fx-footer-container" class="fx-footer-container"><div id="fx-footer-wrapper" class="fx-footer-wrapper"><div id="fx-footer-content" class="fx-footer-content"><div id="fx-footer-content-one" class="fx-footer-content-left"><img src="/skins/FextralifeWiki/resources/assets/fx-logo-full-white.svg" height="35px" width="123px"><ul>
+					<li><a  class="text" href="https://fextralife.com/">Home</a></li>
+					<li><a  class="text" href="https://www.wiki.fextralife.com/">All Wikis</a></li>
+					<li><a  class="text" href="https://fextralife.com/forums/index.php">Forum</a></li>
+					<li><a  class="text" href="https://fextralife.com/about/">About Us</a></li>
+					<li><a  class="text" href="https://fextralife.com/contact-us/">Contact</a></li>
+				</ul><ul class="social-media">
+					<li class="text highlight large" style="white-space: nowrap;">Follow Us</li>
+					<li class="social-elements"><a  class="icon footer-social-icon i-youtube" href="https://www.youtube.com/channel/UClkUHCETNUph8vM-4gQpwUA" target="_blank"><span class="icon-youtube"></span></a></li>
+					<li class="social-elements"><a  class="icon footer-social-icon i-facebook" href="https://www.facebook.com/Fextralife " target="_blank"><span class="icon-facebook"></span></a></li>
+					<li class="social-elements"><a  class="icon footer-social-icon i-instagram" href="https://www.instagram.com/fextralife/" target="_blank"><span class="icon-instagram"></span></a></li>
+					<li class="social-elements"><a  class="icon footer-social-icon i-twitter" href="https://x.com/Fextralife" target="_blank"><span class="icon-x"></span></a></li>
+					<li class="social-elements"><a  class="icon footer-social-icon i-tiktok" href="https://www.tiktok.com/@fextralifeofficial" target="_blank"><span class="icon-tiktok"></span></a></li>
+					<li class="social-elements"><a  class="icon footer-social-icon i-pintrest" href="https://ca.pinterest.com/fextralife/" target="_blank"><span class="icon-pinterest2"></span></a></li>
+					<li class="social-elements"><a  class="icon footer-social-icon i-twitch" href="https://www.twitch.tv/fextralife" target="_blank"><span class="icon-twitch"></span></a></li>
+				</ul><div class="fx-footer-text"><span class="custom-license-text">Contributions to Fextralife Wikis are licensed under a <strong><a  class="custom-license-link" target="_blank" href="https://fextralife.com/wiki-license/">Custom License</a></strong>.</span></div></div><div id="fx-footer-content-two" class="fx-footer-content-right"><img src="/skins/FextralifeWiki/resources/assets/valnet-logo-icon-white.svg" height="37px" width="32px"><ul class="align-right">
+					<li><a  class="text" href="https://www.valnetinc.com/en/advertising" target="_blank">Advertising</a></li>
+					<li><a  class="text" href="https://www.valnetinc.com/en/careers" target="_blank">Careers</a></li>
+					<li><a  class="text" href="https://www.valnetinc.com/en/terms-of-use" target="_blank">Terms</a></li>
+					<li><a  class="text" href="https://www.valnetinc.com/en/privacy-policy" target="_blank">Privacy</a></li>
+					<li><a  class="text" href="https://www.valnetinc.com/en/editorial-integrity" target="_blank">Policies</a></li>
+				</ul><div class="fx-footer-text"><a  href="https://fextralife.com/" class="link brand">FextraLife</a> is part of the <a  href="https://www.valnetinc.com/en/" class="link" target="_blank">Valnet Publishing Group</a></div></div></div></div><div id="fx-footer-bottom" class="fx-footer-bottom"><div id="fx-footer-bottom-content" class="fx-footer-bottom-content">Copyright © Valnet Inc.</div></div><div class="visualClear"></div></div></div></div><script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":68,"wgPageParseReport":{"limitreport":{"cputime":"0.082","walltime":"0.292","ppvisitednodes":{"value":862,"limit":1000000},"postexpandincludesize":{"value":110861,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":4,"limit":100},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":140849,"limit":5000000},"timingprofile":["100.00%  266.001      1 -total"," 16.44%   43.721      1 Subcontent:Lore_1_Shadow_of_the_Erdtree_Lore","  4.96%   13.191      1 Subcontent:Lore_2_Base_Game_Lore"]},"cachereport":{"timestamp":"20261006122329","ttl":86400,"transientcontent":false}}});});</script>
+<script>
+	const setAdditionalData = () => {
+		if (typeof ats == 'object' && window.websiteUserEmail) {
+            console.log("ATS call setData =============", window.websiteUserEmail);
+            ats.setAdditionalData({'type':'email','id': window.websiteUserEmail});
+       }
+	}
+	if('complete' !== document.readyState){
+		document.addEventListener('readystatechange', function(event){
+			if('complete' === event.target.readyState){
+				setAdditionalData();
+			}
+		});
+	} else {
+		setAdditionalData();
+	}
+</script>
+</body>
+</html>
