@@ -8,9 +8,16 @@ export interface Chunk {
 }
 
 function getWords(): string[] {
-  const file = path.resolve(__dirname, "../wiki/cleaned_lore.md");
+  const fileWiki = path.resolve(__dirname, "../wiki/cleaned_lore.md");
+  const fileCarian = path.resolve(__dirname, "../wiki/carian_lore.md");
 
-  const content = fs.readFileSync(file, "utf-8");
+  let content = "";
+  if (fs.existsSync(fileWiki)) {
+    content += fs.readFileSync(fileWiki, "utf-8") + "\n\n";
+  }
+  if (fs.existsSync(fileCarian)) {
+    content += fs.readFileSync(fileCarian, "utf-8") + "\n\n";
+  }
 
   return content.trim().split(/\s+/);
 }
@@ -38,9 +45,8 @@ export function createChunks(
   return chunks;
 }
 
-const chunks = createChunks(300, 50);
-
 if (require.main === module) {
+  const chunks = createChunks(300, 50);
   const outDir = path.resolve(__dirname, "../data");
 
   if (!fs.existsSync(outDir)) {
@@ -49,5 +55,6 @@ if (require.main === module) {
 
   const outFile = path.join(outDir, "chunks.json");
   fs.writeFileSync(outFile, JSON.stringify(chunks, null, 2), "utf-8");
+  console.log(`✅ Generated ${chunks.length} chunks from full lore library!`);
   console.log(`Chunks written to: ${outFile}`);
 }
